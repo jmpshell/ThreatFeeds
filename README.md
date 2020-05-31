@@ -1,2 +1,2 @@
-# ThreatFeeds
-Open source (OSINT) and closed source searches
+# Threat Feeds
+Open source (OSINT) and closed source searches.
