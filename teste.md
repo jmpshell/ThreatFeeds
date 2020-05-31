@@ -1,9 +1,27 @@
 ---
-layout: default
+layout: feed
 ---
-<h1>{{ page.title }}</h1>
-<p class="meta">{{ page.date | date_to_string }}</p>
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<div class="post">
-  {{ content }}
-</div>
+	<title>Hank Quinlan's Blog</title>
+	<link href="http://hankquinlan.github.io/blog/atom.xml" rel="self"/>
+	<link href="http://hankquinlan.github.io/blog"/>
+	<updated>{{ site.time | date_to_xmlschema }}</updated>
+	<id>http://hankquinlan.github.io/blog</id>
+	<author>
+		<name>Hank Quinlan</name>
+		<email>hankquinlanhub@gmail.com</email>
+	</author>
+
+	{% for post in site.posts %}
+		<entry>
+			<title>{{ post.title }}</title>
+			<link href="http://hankquinlan.github.io{{ post.url }}"/>
+			<updated>{{ post.date | date_to_xmlschema }}</updated>
+			<id>http://hankquinlan.github.io{{ post.id }}</id>
+			<content type="html">{{ post.content | xml_escape }}</content>
+		</entry>
+	{% endfor %}
+
+</feed>
