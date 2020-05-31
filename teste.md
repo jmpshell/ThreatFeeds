@@ -1,18 +1,4 @@
----
-layout: feed
----
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
 
-	<title>Hank Quinlan's Blog</title>
-	<link href="http://hankquinlan.github.io/blog/atom.xml" rel="self"/>
-	<link href="http://hankquinlan.github.io/blog"/>
-	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://hankquinlan.github.io/blog</id>
-	<author>
-		<name>Hank Quinlan</name>
-		<email>hankquinlanhub@gmail.com</email>
-	</author>
 
 	{% for post in site.posts %}
 		<entry>
@@ -24,4 +10,3 @@ layout: feed
 		</entry>
 	{% endfor %}
 
-</feed>
