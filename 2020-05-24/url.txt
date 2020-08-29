@@ -1,8 +1,0 @@
-http://84.16.248.172/x86
-http://98.159.110.17/8080
-http://37.49.226.49/5311qjmikurawepedalnqmashrabotatuk61119123c/infn.x86
-http://37.49.226.65/fuze.sh
-http://98.159.110.2/8080
-http://142.11.245.80/axisbins.sh
-http://98.159.110.2/3307
-http://98.159.110.17/3307
