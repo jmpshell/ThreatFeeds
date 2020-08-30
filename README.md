@@ -1,2 +1,2 @@
 # Threat Feeds
-Open source (OSINT) and closed source searches.
+This is a repository of threats identified through open source (OSINT) and closed source research.
