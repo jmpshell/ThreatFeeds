@@ -1,3 +1,5 @@
 
-This is a repository of threats identified through open source (OSINT) and closed source research.
 
+
+## This is a repository of threats identified through open source (OSINT).  
+<img src="https://github.com/jmpshell/ThreatFeeds/blob/master/assets/osintlogo.png" width="20%" height="20%" alt="Osint Logo" style="vertical-align:middle"> 
