@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="30%" height="30%" src="https://github.com/jmpshell/ThreatFeeds/blob/master/assets/osinticon.gif" alt="Osint Logo"> 
+    <img width="20%" height="20%" src="https://github.com/jmpshell/ThreatFeeds/blob/master/assets/osinticon.gif" alt="Osint Logo"> 
 </p>
 
 
