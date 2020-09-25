@@ -4,6 +4,6 @@
 
 <h2 align="center">This is a repository of threats identified through open source (OSINT).</h2>
 
-
+<br><br>
 
 Warning: All observables listed here are processed in an automated manner, without human analysis.
