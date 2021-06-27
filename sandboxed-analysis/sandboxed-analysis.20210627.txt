@@ -1,0 +1,846 @@
+----------------------------------------------------------------------------------------------------
+-> MD5:   ff194363f8eedcf6119d908092eb5b28
+----------------------------------------------------------------------------------------------------
+-> MD5:   ae903e569a7642b2c2754077f30ee79c
+----------------------------------------------------------------------------------------------------
+-> MD5:   2eb68e495e4eb18c86a443b2754bbab2
+-> VT Detect:   Generic.mg.2eb68e495e4eb18c,  PUA.IgenericRI.S15903427,  Trojan.Win32.CookiesStealer.b,  ML.Attribute.HighConfidence,  Win.Malware.Spyagent-9830839-0,  Trojan.Win32.CookiesStealer.b,  Riskware.Win32.PSWTool.hqsnsl,  generic.ml,  Trojan.DownLoader39.47243,  TROJ_GEN.R06CC0DFD21,  BehavesLike.Win32.PUP.dc,  Trojan.CookiesStealer.i,  W32.Malware.Gen,  TR/Redcap.ahesa,  Trojan/Generic.ASMalwS.2FFCE3E,  Trojan.Win32.Agent.vb,  Generic.Spyagent.5.31312AF7,  Trojan/Win32.Infostealer.R367905,  BScope.Trojan.Infospy,  Generic.Trojan.Malicious.DDS,  TROJ_GEN.R06CC0DFD21,  Trojan.Malagent,  Unsafe.AI_Score_99%,  Trojan.Malware.300983.susgen,  malicious.95e4eb,  Trj/Genetic.gen
+----------------------------------------------------------------------------------------------------
+-> MD5:   cd1badcddffb24f00398625fb76dbcb9
+----------------------------------------------------------------------------------------------------
+-> MD5:   3b5417e340e41818100871988f442063
+----------------------------------------------------------------------------------------------------
+-> MD5:   caaeb152d528c8c52126d6678a8ce6f5
+----------------------------------------------------------------------------------------------------
+-> MD5:   ff874891af2060ec357bfecf0edafd99
+----------------------------------------------------------------------------------------------------
+-> MD5:   bf137d87e79f68177dd1eb0b780a35e4
+-> VT Detect:   W32.FamVT.HyperiOF.Trojan,  Trojan.Agent.CZTF,  Generic.mg.bf137d87e79f6817,  Ransom.WannaCrypt.S1670344,  Trojan.Agent.CZTF,  Exploit.CVE.Win32.1766,  Ransom.Wannacry,  Win32.Worm.Rbot.a,  generic.ml,  Win.Ransomware.WannaCry-6313787-0,  Win32.Trojan-Ransom.WannaCry.K,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Trojan.Win32.Wanna.epxkni,  Trojan.Win32.Wanna.tpxd,  Trojan.Agent.CZTF,  Ransom/W32.WannaCry.5267459,  Trojan.TR/AD.WannaCry.zbqny,  Trojan.Encoder.11432,  Ransom_WCRY.SMALYM,  Exploit.CVE-2017-0147,  Trojan.Wanna.k,  Trojan.Generic,  TR/AD.WannaCry.zbqny,  Trojan.Agent.CZTF,  Trojan.Win32.WannaCry.5267459,  Trojan-Ransom.Win32.Wanna.m,  Trojan/Win32.WannaCryptor.R200894,  Hoax.Wanna,  Ransom.WannaCrypt,  Win32/Exploit.CVE-2017-0147.A,  Ransom_WCRY.SMALYM,  Trojan-Ransom.Win32.Wanna.m,  W32.Ransom.Wannacrypt,  Trj/CI.A,  Win32/Trojan.Ransom.62c
+----------------------------------------------------------------------------------------------------
+-> MD5:   386f93106c7af1b1a8a31d61e44e3037
+----------------------------------------------------------------------------------------------------
+-> MD5:   cebb64bfd042804239424fed482aa986
+----------------------------------------------------------------------------------------------------
+-> MD5:   dbc927f7b85d7af340c37d82ea844d5f
+----------------------------------------------------------------------------------------------------
+-> MD5:   65ffcf0ed76bab6f26ac4c0551f84872
+----------------------------------------------------------------------------------------------------
+-> MD5:   54dd9593fb858bb8b1a77fe5e9238ae2
+----------------------------------------------------------------------------------------------------
+-> MD5:   4de3836f1420865cba3fd692b9af947a
+----------------------------------------------------------------------------------------------------
+-> MD5:   8fa0e5dd92185799b73cbfab3da3e919
+----------------------------------------------------------------------------------------------------
+-> MD5:   63c173c494e79d63ef61a432fed6a7dd
+----------------------------------------------------------------------------------------------------
+-> MD5:   906fe40efe10e136fae632521e14963c
+----------------------------------------------------------------------------------------------------
+-> MD5:   8e6bfea06cb00553ee29b3822b349bd6
+-> VT Detect:   W32.FamVT.HyperiOF.Trojan,  Trojan.Encoder.11432,  Trojan.GenericKD.40455189,  Generic.mg.8e6bfea06cb00553,  Ransom.WannaCrypt.S1670344,  Trojan.GenericKD.40455189,  Exploit.CVE.Win32.1764,  Ransom.Win32.Wannacry_0.se,  Ransom.Wannacry,  Win32/Exploit.CVE-2017-0147.A,  Win.Ransomware.WannaCry-6313787-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.GenericKD.40455189,  Trojan.Win32.Wanna.epxkni,  generic.ml,  Trojan.Win32.WannaCry.5267459,  Trojan.GenericKD.40455189,  Win32.Worm.Rbot.a,  Ransom_WCRY.SMALYM,  BehavesLike.Win32.Generic.th,  Trojan.Wanna.k,  Trojan.Generic,  TR/AD.WannaCry.zbqny,  Trojan/Generic.ASMalwS.2041E4F,  Trojan.Generic.D2694C15,  Trojan.Win32.Wanna.tpxd,  Win32.Trojan-Ransom.WannaCry.K,  Trojan/Win32.WannaCryptor.R200894,  Ransom/W32.WannaCry.5267459,  Hoax.Wanna,  WannaCry.Ransom.Encrypt.DDS,  Ransom_WCRY.SMALYM,  Trojan-Ransom.Win32.Wanna.m,  Exploit.CVE-2017-0147,  Trojan-Ransom.Win32.Wanna.m,  W32.Trojan.Gen,  Trj/CI.A
+----------------------------------------------------------------------------------------------------
+-> MD5:   5ebd84ac4bf2f72bea33bab2dc2fd08c
+----------------------------------------------------------------------------------------------------
+-> MD5:   f69ccb45293a1c28f42e26ce999c12d2
+-> VT Detect:   W32.PikosaDTAN.Trojan,  Trojan.Encoder.11432,  Trojan.Agent.CZTF,  Generic.mg.f69ccb45293a1c28,  Ransom.WannaCrypt.A4,  Ransom.Win32.Wannacry_0.se,  Ransom.Wannacry,  Win32/Exploit.CVE-2017-0147.A,  Win.Ransomware.WannaCry-6313787-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Trojan.Win32.Wanna.epxkni,  generic.ml,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Ransom/W32.WannaCry.5267459,  Win32.Worm.Rbot.a,  Exploit.CVE.Win32.1766,  Ransom_WCRY.SMALYM,  BehavesLike.Win32.Generic.th,  Trojan.Wanna.k,  Trojan.Generic,  TR/Ransom.Gen,  Trojan.Win32.WannaCry.5267459,  Trojan-Ransom.Win32.Wanna.m,  Win32.Trojan-Ransom.WannaCry.K,  Trojan/Win32.WannaCryptor.R200894,  Hoax.Wanna,  Trojan.Agent.CZTF,  WannaCry.Ransom.Encrypt.DDS,  Ransom_WCRY.SMALYM,  Exploit.CVE-2017-0147,  Trojan-Ransom.Win32.Wanna.m,  W32.Ransom.Wannacrypt,  Trj/CI.A,  Win32/Ransom.WannaCry.HxoC6XsA
+----------------------------------------------------------------------------------------------------
+-> MD5:   95ae8e32eb8635e7eabe14ffbfaa777b
+-> VT Detect:   W32.FamVT.HyperiOF.Trojan,  Trojan.Agent.CZTF,  Generic.mg.95ae8e32eb8635e7,  Trojan.GenericRI.S7132805,  Trojan.Agent.CZTF,  Ransom.Win32.Wannacry_0.se,  Trojan.Agent.CZTF,  Ransom.Wannacry,  Win32/Exploit.CVE-2017-0147.A,  Win32.Worm.Rbot.a,  generic.ml,  Win.Ransomware.WannaCry-6313787-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Win32.Wanna.epxkni,  Trojan.Win32.WannaCry.5267459,  Trojan.Agent/Gen-WannaCrypt,  Malware.Win32.Gencirc.10b3a623,  Trojan.Agent.CZTF,  Ransom/W32.WannaCry.5267459.F,  Trojan.Encoder.11432,  Trojan.Wanna.Win32.98,  Ransom_WCRY.SMALYM,  BehavesLike.Win32.Generic.tt,  Exploit.CVE-2017-0147,  Trojan.Wanna.k,  W32.Trojan.Gen,  TR/AD.DPulsarShellcode.gohtr,  Trojan/Generic.ASMalwS.2041E4F,  Trojan.Win32.Wanna.tpxd,  Win32.Trojan-Ransom.WannaCry.K,  Trojan/Win32.WannaCryptor.R200894,  Hoax.Wanna,  WannaCry.Ransom.Encrypt.DDS,  Trj/CI.A,  Ransom_WCRY.SMALYM,  Trojan-Ransom.Win32.Wanna.m
+----------------------------------------------------------------------------------------------------
+-> MD5:   6462149d540fa57e6dce80bc05bad2c8
+----------------------------------------------------------------------------------------------------
+-> MD5:   a80dd7d22da469c0d9059529d1bff840
+----------------------------------------------------------------------------------------------------
+-> MD5:   86a00b5a12665ccc4345b1540268579a
+----------------------------------------------------------------------------------------------------
+-> MD5:   3553aeb71299e94c2549f1b34f6c1a43
+-> VT Detect:   W32.FamVT.HyperiOF.Trojan,  Trojan.Encoder.11432,  Trojan.Agent.CZTF,  Trojan.GenericRI.S7132805,  Trojan.Agent.CZTF,  Trojan.GenericKD.Win32.118959,  Trojan.Agent/Gen-WannaCrypt,  Ransom.Win32.Wannacry_0.se,  Ransom.Wannacry,  Win32/Exploit.CVE-2017-0147.A,  Win.Ransomware.WannaCry-6313787-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Trojan.Win32.Wanna.epxkni,  generic.ml,  Trojan.Win32.WannaCry.5267459,  Trojan.Agent.CZTF,  Ransom/W32.WannaCry.5267459.F,  Win32.Worm.Rbot.a,  Ransom_WCRY.SMALYM,  BehavesLike.Win32.Generic.tt,  Generic.mg.3553aeb71299e94c,  Exploit.CVE-2017-0147,  Trojan.Wanna.k,  Trojan-Ransom.Win32.Wanna.m,  TR/AD.DPulsarShellcode.gohtr,  Trojan/Generic.ASMalwS.2041E4F,  Trojan.Win32.Wanna.tpxd,  Win32.Trojan-Ransom.WannaCry.K,  Trojan/Win32.WannaCryptor.R200894,  Hoax.Wanna,  WannaCry.Ransom.Encrypt.DDS,  Ransom_WCRY.SMALYM,  Trojan.Generic,  W32.Trojan.Gen,  Trj/CI.A
+----------------------------------------------------------------------------------------------------
+-> MD5:   ef894d1c6dd120fad5a885bc737d6338
+-> VT Detect:   W32.DikasarDGE.Trojan,  Trojan.Agent.CZTF,  Generic.mg.ef894d1c6dd120fa,  Ransom.WannaCrypt.S1670344,  Ransom.Win32.Wannacry_0.se,  Trojan.Agent.CZTF,  Win32.Worm.Rbot.a,  Ransom.Wannacry,  Win32/Exploit.CVE-2017-0147.A,  Win.Ransomware.WannaCry-6313787-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Win32.Wanna.epxkni,  Trojan.Win32.WannaCry.5267459,  Trojan.Win32.Wanna.tpxd,  Trojan.Agent.CZTF,  Ransom/W32.WannaCry.5267459,  Trojan.Encoder.11432,  Exploit.CVE.Win32.1766,  Ransom_WCRY.SMALYM,  BehavesLike.Win32.Generic.th,  Exploit.CVE-2017-0147,  Trojan.Wanna.k,  W32.Ransom.Wannacrypt,  TR/Ransom.Gen,  Trojan/Generic.ASMalwS.2041E4F,  Trojan.Agent.CZTF,  Win32.Trojan-Ransom.WannaCry.K,  Trojan/Win32.WannaCryptor.R200894,  Hoax.Wanna,  Trojan.Ransom.WannaCryptor,  WannaCry.Ransom.Encrypt.DDS,  Trj/CI.A,  Ransom_WCRY.SMALYM,  Trojan.Generic,  generic.ml,  Trojan-Ransom.Win32.Wanna.m
+----------------------------------------------------------------------------------------------------
+-> MD5:   5e8f78570b9610d10fe961dd12e8dba6
+----------------------------------------------------------------------------------------------------
+-> MD5:   270c3859591599642bd15167765246e3
+----------------------------------------------------------------------------------------------------
+-> MD5:   8da3345636b0f9b8c0acc811f5a26c61
+-> VT Detect:   W32.FamVT.HyperiOF.Trojan,  Trojan.Encoder.11432,  Trojan.Agent.CZTF,  Generic.mg.8da3345636b0f9b8,  Trojan.GenericRI.S7132805,  Trojan.Agent.CZTF,  Trojan.Wanna.Win32.98,  Trojan.Agent/Gen-WannaCrypt,  Ransom.Win32.Wannacry_0.se,  Trojan.Agent.CZTF,  Ransom.Wannacry,  Win32/Exploit.CVE-2017-0147.A,  generic.ml,  Win.Ransomware.WannaCry-6313787-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Trojan.Win32.Wanna.epxkni,  Trojan.Win32.WannaCry.5267459,  Trojan.Agent.CZTF,  Win32.Worm.Rbot.a,  Ransom_WCRY.SMALYM,  Trojan.Wanna.k,  Trojan.Generic,  TR/AD.DPulsarShellcode.ujeuv,  Trojan/Generic.ASMalwS.2041E4F,  Trojan.Win32.Wanna.tpxd,  Win32.Trojan-Ransom.WannaCry.K,  Trojan/Win32.WannaCryptor.R200894,  Ransom/W32.WannaCry.5267459.F,  Hoax.Wanna,  WannaCry.Ransom.Encrypt.DDS,  Ransom_WCRY.SMALYM,  Malware.Win32.Gencirc.10b3a623,  Trojan-Ransom.Win32.Wanna.m,  W32.Trojan.Gen,  Trj/CI.A
+----------------------------------------------------------------------------------------------------
+-> MD5:   84bf1b67aad385f6afa831d492396556
+----------------------------------------------------------------------------------------------------
+-> MD5:   2499ec02ac63ee4844cead87766225db
+----------------------------------------------------------------------------------------------------
+-> MD5:   af76bbae1d51d04f1113bc225f979820
+-> VT Detect:   W32.PikosaDTAN.Trojan,  Trojan.Agent.CZTF,  Generic.mg.af76bbae1d51d04f,  Ransom.WannaCrypt.A4,  Win32/Ransom.WannaCry.HxoCXs4A,  Trojan.Agent.CZTF,  Exploit.CVE.Win32.1766,  Ransom.Win32.Wannacry_0.se,  Win32.Worm.Rbot.a,  Ransom.Wannacry,  Win32/Exploit.CVE-2017-0147.A,  Win.Ransomware.WannaCry-6313787-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Trojan.Win32.Wanna.epxkni,  generic.ml,  Trojan.Win32.WannaCry.5267459,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Ransom/W32.WannaCry.5267459,  Trojan.Encoder.11432,  Ransom_WCRY.SMALYM,  BehavesLike.Win32.Generic.th,  Trojan.Wanna.k,  W32.Ransom.Wannacrypt,  TR/AD.WannaCry.ladbe,  Trojan.Win32.Wanna.tpxd,  Win32.Trojan-Ransom.WannaCry.K,  Trojan/Win32.WannaCryptor.R200894,  Hoax.Wanna,  WannaCry.Ransom.Encrypt.DDS,  Ransom_WCRY.SMALYM,  Exploit.CVE-2017-0147,  Trojan.Generic,  Trj/CI.A,  Trojan-Ransom.Win32.Wanna.m
+----------------------------------------------------------------------------------------------------
+-> MD5:   2a270d6a0d77fd1e12f813c8f8661e86
+----------------------------------------------------------------------------------------------------
+-> MD5:   37c07aa4965f5f1bd40600ea762a040f
+----------------------------------------------------------------------------------------------------
+-> MD5:   7b9bebe448396a8b217e646ebd5e7f68
+----------------------------------------------------------------------------------------------------
+-> MD5:   dba5610430a43dcc2d1fe60905c078a7
+-> VT Detect:   PUA.MSJDGBTIR.OD5,  Malware.AI.4285857949,  Trojan.Win32.Adw.cvawzk,  Adware.Conduit.278272.B,  Adware.Downware.1730,  Adware.Conduit.Win32.13,  PUA.Conduit,  AdWare.SearchProtect.om,  Unsafe.AI_Score_98%,  Win32.Adware.Conduit.B,  Adware.Conduit,  PUP/Conduit.A,  Pua.Conduit
+----------------------------------------------------------------------------------------------------
+-> MD5:   e4cc9844574dec633d8adc474215159c
+----------------------------------------------------------------------------------------------------
+-> MD5:   02c5f1515bf42798728fac17bfe1e4c1
+----------------------------------------------------------------------------------------------------
+-> MD5:   ec353e36a9a79650663f2ab119eeb331
+----------------------------------------------------------------------------------------------------
+-> MD5:   63e32043d2d8713aae718fc11416153b
+----------------------------------------------------------------------------------------------------
+-> MD5:   603bdf63216065c9e23b27b433ce39e3
+----------------------------------------------------------------------------------------------------
+-> MD5:   0091febaadccc0ca412eef9c33974413
+----------------------------------------------------------------------------------------------------
+-> MD5:   95c9114f4850e45b212d0e053103961e
+----------------------------------------------------------------------------------------------------
+-> MD5:   d65e29d37bd8394515397678859cb7d9
+----------------------------------------------------------------------------------------------------
+-> MD5:   2e765a8048bcd67f293f11db938e77c3
+----------------------------------------------------------------------------------------------------
+-> MD5:   9792cbeaa00a9e7f3a58b5827441e71d
+-> VT Detect:   Trojan.Encoder.11432,  Trojan.Agent.CZTF,  Generic.mg.9792cbeaa00a9e7f,  Ransom.WannaCrypt.S1670344,  Trojan.Agent.CZTF,  Ransom.Wannacry,  Ransom_WCRY.SMALYM,  generic.ml,  Win.Ransomware.WannaCry-6313787-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Trojan.Win32.Wanna.epxkni,  Trojan.Win32.Wanna.tpxd,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Ransom/W32.WannaCry.5267459,  Trojan.TR/AD.WannaCry.svfgo,  Win32.Worm.Rbot.a,  Ransom_WCRY.SMALYM,  Trojan.Wanna.k,  W32.Ransom.Wannacrypt,  TR/AD.WannaCry.svfgo,  Trojan.Win32.WannaCry.5267459,  Trojan-Ransom.Win32.Wanna.m,  Win32.Trojan-Ransom.WannaCry.K,  Trojan/Win32.WannaCryptor.R200894,  Hoax.Wanna,  Trojan.Agent.CZTF,  Ransom.WannaCrypt,  Win32/Exploit.CVE-2017-0147.A,  Exploit.CVE-2017-0147,  Trojan.Generic,  Trj/CI.A
+----------------------------------------------------------------------------------------------------
+-> MD5:   1a400481251fac98bc574c0aed7beca8
+-> VT Detect:   W32.FamVT.HyperiOF.Trojan,  Trojan.Agent.CZTF,  Trojan.GenericRI.S7132805,  Trojan.Agent.CZTF,  Trojan.Agent/Gen-WannaCrypt,  Ransom.Win32.Wannacry_0.se,  Win32.Worm.Rbot.a,  Ransom.Wannacry,  Win32/Exploit.CVE-2017-0147.A,  Win.Ransomware.WannaCry-6313787-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Trojan.Win32.Wanna.epxkni,  generic.ml,  Trojan.Win32.Wanna.tpxd,  Malware.Win32.Gencirc.10b3a623,  Trojan.Agent.CZTF,  Trojan.Encoder.11432,  Trojan.Wanna.Win32.98,  Ransom_WCRY.SMALYM,  BehavesLike.Win32.Generic.tz,  Trojan-Ransom.Win32.Wanna.m,  Generic.mg.1a400481251fac98,  Trojan.Wanna.k,  TR/AD.DPulsarShellcode.gohtr,  Trojan/Generic.ASMalwS.2041E4F,  Trojan.Win32.WannaCry.5267459,  Win32.Trojan-Ransom.WannaCry.K,  Trojan/Win32.WannaCryptor.R200894,  Ransom/W32.WannaCry.5267459.F,  Hoax.Wanna,  WannaCry.Ransom.Encrypt.DDS,  Ransom_WCRY.SMALYM,  Exploit.CVE-2017-0147,  Trojan.Generic,  Trj/CI.A
+----------------------------------------------------------------------------------------------------
+-> MD5:   b6a12f718f6539b694bd2768608bd329
+----------------------------------------------------------------------------------------------------
+-> MD5:   9b8ceaf82536035df7002d74c4130192
+----------------------------------------------------------------------------------------------------
+-> MD5:   57b79c76948e48f8719e7c4c9c273005
+----------------------------------------------------------------------------------------------------
+-> MD5:   6d29adf2a437ed3abe00e91e49cc94b0
+----------------------------------------------------------------------------------------------------
+-> MD5:   9615ab661d92bbc4b3fda0fe3739ade7
+----------------------------------------------------------------------------------------------------
+-> MD5:   322f3ba4faa90520c418b688b88db73b
+----------------------------------------------------------------------------------------------------
+-> MD5:   374fb48a959a96ce92ae0e4346763293
+----------------------------------------------------------------------------------------------------
+-> MD5:   068b5cf6bfdd3adb07561b32450d49a2
+-> VT Detect:   W32.FamVT.HyperiOF.Trojan,  Trojan.Agent.CZTF,  Ransom.Zenshirsh.SL8,  Trojan.Agent.CZTF,  Trojan.Wanna.Win32.98,  Trojan.Agent/Gen-WannaCrypt,  Ransom.Win32.Wannacry_0.se,  Trojan.Agent.CZTF,  Ransom.Wannacry,  Win32.Worm.Rbot.a,  Win.Ransomware.WannaCry-6313787-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Trojan.Win32.Wanna.epxkni,  generic.ml,  Malware.Win32.Gencirc.10b3a623,  Trojan.Agent.CZTF,  Trojan.TR/AD.DPulsarShellcode.gohtr,  Trojan.Encoder.11432,  Ransom_WCRY.SMALYM,  BehavesLike.Win32.Generic.tt,  Generic.mg.068b5cf6bfdd3adb,  Trojan.Wanna.k,  TR/AD.DPulsarShellcode.gohtr,  Trojan.Win32.WannaCry.5267459,  Trojan-Ransom.Win32.Wanna.m,  Win32.Trojan-Ransom.WannaCry.K,  Trojan/Win32.WannaCryptor.R200894,  Ransom/W32.WannaCry.5267459.F,  Hoax.Wanna,  WannaCry.Ransom.Encrypt.DDS,  Win32/Exploit.CVE-2017-0147.A,  Ransom_WCRY.SMALYM,  Exploit.CVE-2017-0147,  Trojan.Generic,  Trojan-Ransom.Win32.Wanna.m,  Win32/Ransom.WannaCry.HgkASOgA
+----------------------------------------------------------------------------------------------------
+-> MD5:   3beb8a3e32189c22dea897f8a1ae34ea
+----------------------------------------------------------------------------------------------------
+-> MD5:   5a984eb849d4382196822e56fdcb80b1
+----------------------------------------------------------------------------------------------------
+-> MD5:   414a3594e4a822cfb97a4326e185f620
+-> VT Detect:   W32.AIDetect.malware2,  Trojan.Agent.CZTF,  Ransom.WannaCrypt.S1670344,  Trojan.Agent.CZTF,  Exploit.CVE.Win32.1766,  Ransom.Win32.Wannacry_0.se,  Trojan.Agent.CZTF,  Win32.Worm.Rbot.a,  Ransom.Wannacry,  Win32/Exploit.CVE-2017-0147.A,  Win.Ransomware.WannaCry-6313787-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Trojan.Win32.Wanna.epxkni,  generic.ml,  Trojan.Win32.Wanna.tpxd,  Trojan.Agent.CZTF,  Trojan.Encoder.11432,  Ransom_WCRY.SMALYM,  Generic.mg.414a3594e4a822cf,  Exploit.CVE-2017-0147,  Trojan.Wanna.k,  TR/AD.WannaCry.svfgk,  Trojan.Generic,  Trojan/Generic.ASMalwS.2041E4F,  Trojan.Win32.WannaCry.5267459,  Trojan-Ransom.Win32.Wanna.m,  Win32.Trojan-Ransom.WannaCry.K,  Trojan/Win32.WannaCryptor.R200894,  Ransom/W32.WannaCry.5267459.DK,  Hoax.Wanna,  WannaCry.Ransom.Encrypt.DDS,  Ransom_WCRY.SMALYM,  Trojan-Ransom.Win32.Wanna.m,  Trojan-Ransom.Win32.Wanna.m,  Trj/CI.A
+----------------------------------------------------------------------------------------------------
+-> MD5:   5a4161dea2860628bfb4498095861d2a
+----------------------------------------------------------------------------------------------------
+-> MD5:   7d8fd550738bac50c65c85b450257db0
+----------------------------------------------------------------------------------------------------
+-> MD5:   3f2a52f1e44a3b7e014020d772bf09f7
+----------------------------------------------------------------------------------------------------
+-> MD5:   8073587ad2b8cc9882aa1b320ba04c19
+----------------------------------------------------------------------------------------------------
+-> MD5:   cb6be429e44c8ccf5da692250f76358a
+----------------------------------------------------------------------------------------------------
+-> MD5:   b975a7265ef99dc0844e8bfdaa1270c8
+----------------------------------------------------------------------------------------------------
+-> MD5:   7779f0c76c2d0ec2b4f6327e7ffa04ad
+----------------------------------------------------------------------------------------------------
+-> MD5:   41b2605ceeca2f0be436e74a6fa32572
+----------------------------------------------------------------------------------------------------
+-> MD5:   c8c460007732e9cd141c97942b75660c
+----------------------------------------------------------------------------------------------------
+-> MD5:   125d3edc69e48beb919cc8b9d1083fe5
+----------------------------------------------------------------------------------------------------
+-> MD5:   d5fde7dcb624f77c01920c1241566838
+----------------------------------------------------------------------------------------------------
+-> MD5:   be4097d198946861c9c34c8d280d6056
+----------------------------------------------------------------------------------------------------
+-> MD5:   33d373e264dc7fdb0bcdbd8e075a6319
+-> VT Detect:   W32.FamVT.HyperiOF.Trojan,  Trojan.Encoder.11432,  Trojan.Agent.CZTF,  Generic.mg.33d373e264dc7fdb,  Trojan.GenericRI.S7132805,  Trojan.Agent.CZTF,  Trojan.Wanna.Win32.98,  Trojan.Agent/Gen-WannaCrypt,  Ransom.Win32.Wannacry_0.se,  Trojan.Agent.CZTF,  Ransom.Wannacry,  Win32/Exploit.CVE-2017-0147.A,  Win.Ransomware.WannaCry-6313787-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Trojan.Win32.Wanna.epxkni,  generic.ml,  Trojan.Win32.WannaCry.5267459,  Malware.Win32.Gencirc.10b3a623,  Trojan.Agent.CZTF,  Ransom/W32.WannaCry.5267459.F,  Win32.Worm.Rbot.a,  Ransom_WCRY.SMALYM,  BehavesLike.Win32.Generic.tt,  Exploit.CVE-2017-0147,  Trojan.Wanna.k,  Trojan.Generic,  TR/AD.DPulsarShellcode.gohtr,  Trojan/Generic.ASMalwS.2041E4F,  Trojan.Win32.Wanna.tpxd,  Win32.Trojan-Ransom.WannaCry.K,  Trojan/Win32.WannaCryptor.R200894,  Hoax.Wanna,  WannaCry.Ransom.Encrypt.DDS,  Ransom_WCRY.SMALYM,  Trojan-Ransom.Win32.Wanna.m,  Trj/CI.A
+----------------------------------------------------------------------------------------------------
+-> MD5:   481db13dccd513cbb06928217dcb8ece
+----------------------------------------------------------------------------------------------------
+-> MD5:   5297a5b1237678eebed343d530afdedc
+----------------------------------------------------------------------------------------------------
+-> MD5:   ed7f40e4e7ba70381d580a5ce8247ea1
+-> VT Detect:   W32.FamVT.HyperiOF.Trojan,  Trojan.Encoder.11432,  Trojan.Agent.CZTF,  Generic.mg.ed7f40e4e7ba7038,  Ransom.Zenshirsh.SL8,  Win32/Worm.WannaCrypt.W,  Trojan.Wanna.Win32.98,  Trojan.Agent/Gen-WannaCrypt,  Trojan.Agent.CZTF,  Ransom.Wannacry,  Win32/Exploit.CVE-2017-0147.A,  Win.Ransomware.WannaCry-6313787-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Trojan.Win32.Wanna.epxkni,  generic.ml,  Trojan.Win32.Wanna.tpxd,  Trojan.Agent.CZTF,  Trojan.TR/AD.WannaCry.phzid,  Win32.Worm.Rbot.a,  Ransom_WCRY.SMALYM,  BehavesLike.Win32.Generic.tz,  Trojan.Wanna.k,  W32.Trojan.Gen,  TR/AD.WannaCry.phzid,  Trojan.Win32.WannaCry.5267459,  Trojan-Ransom.Win32.Wanna.m,  Win32.Trojan-Ransom.WannaCry.K,  Trojan/Win32.WannaCryptor.R200894,  Hoax.Wanna,  Trojan.Agent.CZTF,  Ransom.WannaCrypt,  Ransom_WCRY.SMALYM,  Malware.Win32.Gencirc.10b3a623,  Exploit.CVE-2017-0147,  Trojan.Generic,  Trj/CI.A
+----------------------------------------------------------------------------------------------------
+-> MD5:   9f105a70f86071d39afad31c14c6c9c2
+----------------------------------------------------------------------------------------------------
+-> MD5:   f566ee6040a8fe74f33271c3121d16a0
+----------------------------------------------------------------------------------------------------
+-> MD5:   c07ed07ee099381479f92199b0cbe64b
+----------------------------------------------------------------------------------------------------
+-> MD5:   c6f1fd934179d264115dd784f2e680b2
+----------------------------------------------------------------------------------------------------
+-> MD5:   91e2c066da101bdb8cbfae83d90a15cf
+----------------------------------------------------------------------------------------------------
+-> MD5:   fae43452c24227f9acb314d82c4cb45a
+----------------------------------------------------------------------------------------------------
+-> MD5:   acf8c5a20568209550392dd8c9934c11
+----------------------------------------------------------------------------------------------------
+-> MD5:   e15787ea22a793ff3c4d414c18234fec
+----------------------------------------------------------------------------------------------------
+-> MD5:   43dd23c802f0b3765ac64c155ff9b528
+----------------------------------------------------------------------------------------------------
+-> MD5:   81fc5ef6e197bb76b3ff0053a8bd6248
+----------------------------------------------------------------------------------------------------
+-> MD5:   bfcff5e7e6343d0d16a52eddf28d7e59
+----------------------------------------------------------------------------------------------------
+-> MD5:   88c7bdd9bfd7da38eb90f18f203c71f4
+----------------------------------------------------------------------------------------------------
+-> MD5:   cc475a767994e3245b99102b39fda013
+----------------------------------------------------------------------------------------------------
+-> MD5:   71c085131fc413fa18480971805a06c3
+----------------------------------------------------------------------------------------------------
+-> MD5:   95ff0a735ffc1b048110d8d21924da66
+----------------------------------------------------------------------------------------------------
+-> MD5:   73e98666b17ff8ca638ef679248e47c1
+----------------------------------------------------------------------------------------------------
+-> MD5:   2afd27e1cdcc42899f921c2f3cae2c04
+----------------------------------------------------------------------------------------------------
+-> MD5:   f11868be97cdbb6abae3bf71189b1a74
+----------------------------------------------------------------------------------------------------
+-> MD5:   633f4861cedd1de1bf6543357fd7f308
+----------------------------------------------------------------------------------------------------
+-> MD5:   75a599a2010135267e705a99a345a2ae
+----------------------------------------------------------------------------------------------------
+-> MD5:   a187aa348c105a114817c7668ebc4141
+----------------------------------------------------------------------------------------------------
+-> MD5:   e10ac33a76b7ed72e9235e47a512f911
+----------------------------------------------------------------------------------------------------
+-> MD5:   08857a433940296f4561a74708f9158a
+-> VT Detect:   W32.FamVT.HyperiOF.Trojan,  Trojan.Encoder.11432,  Trojan.Agent.CZTF,  Ransom.WannaCrypt.S1670344,  Trojan.Agent.CZTF,  Exploit.CVE.Win32.1764,  Ransom.Win32.Wannacry_0.se,  Trojan.Agent.CZTF,  Ransom.Wannacry,  Win32/Exploit.CVE-2017-0147.A,  Win.Ransomware.WannaCry-6313787-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Trojan.Win32.Wanna.epxkni,  generic.ml,  Trojan.Win32.WannaCry.5267459,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Trojan.TR/Ransom.Gen,  Win32.Worm.Rbot.a,  Ransom_WCRY.SMALYM,  BehavesLike.Win32.Generic.th,  Generic.mg.08857a433940296f,  Trojan.Wanna.k,  Trojan.Generic,  TR/Ransom.Gen,  Trojan/Generic.ASMalwS.2041E4F,  Trojan.Win32.Wanna.tpxd,  Trojan-Ransom.Win32.Wanna.m,  Win32.Trojan-Ransom.WannaCry.K,  Trojan/Win32.WannaCryptor.R200894,  Ransom/W32.WannaCry.5267459,  Hoax.Wanna,  WannaCry.Ransom.Encrypt.DDS,  Ransom_WCRY.SMALYM,  Exploit.CVE-2017-0147,  Trojan-Ransom.Win32.Wanna.m,  Trj/CI.A
+----------------------------------------------------------------------------------------------------
+-> MD5:   0064e2641d419d2c68f9beb18246a297
+----------------------------------------------------------------------------------------------------
+-> MD5:   153fa436a912b21a4e4d64df730eeb51
+----------------------------------------------------------------------------------------------------
+-> MD5:   b794a273d022fc0c10d783afd6e1493b
+----------------------------------------------------------------------------------------------------
+-> MD5:   5dde83dfeabd347686a111862a6fe2e0
+----------------------------------------------------------------------------------------------------
+-> MD5:   856fbef821befcb890b61db7a0d22a00
+----------------------------------------------------------------------------------------------------
+-> MD5:   09b950f451b5ea82a536f2b9792f8bf8
+----------------------------------------------------------------------------------------------------
+-> MD5:   98abe26199f28ab4e2b42e85f975b9e4
+----------------------------------------------------------------------------------------------------
+-> MD5:   f525fe6994ca286e3a64b32e324e0a46
+----------------------------------------------------------------------------------------------------
+-> MD5:   899035711854c2009bfd5c0d2f332b62
+----------------------------------------------------------------------------------------------------
+-> MD5:   70ccd9220cebb56eaa38b9f1bd1a1cd8
+-> VT Detect:   W32.AIDetect.malware2,  Generic.mg.70ccd9220cebb56e,  Trojan.Downloader.S5661688,  Downloader.Generic.Win32.1528,  Trojan.Agent/Gen-Downloader,  Trojan.Win32.Save.a,  W32/Downloader.XDLF-3913,  Downloader.Trojan,  Win32/TrojanDownloader.Agent.DRI,  Trojan.Win32.Fuery.eqrhlz,  generic.ml,  Malware.Win32.Gencirc.10b2ba22,  Trojan.DownLoader19.38099,  TROJ_GEN.R002C0CCR21,  TrojanDownloader.Generic.awee,  W32.Trojan.Gen,  HEUR/AGEN.1128425,  Trojan/Generic.ASMalwS.209161D,  Adware.Win32.Downloader.oa,  Trojan.Mikey.D1AE2A,  Malware/Win32.Generic.C1991967,  Trojan.Downloader,  Trojan.Downloader,  TROJ_GEN.R002C0CCR21,  Trojan-Downloader.Win32.Agent,  Trj/GdSda.A
+----------------------------------------------------------------------------------------------------
+-> MD5:   552e88c8f7678d685b0498dd6c50245d
+----------------------------------------------------------------------------------------------------
+-> MD5:   7fe627a1683ec232399cb09e99995038
+----------------------------------------------------------------------------------------------------
+-> MD5:   a3f7f6e55e33bd9eb20d6f08425df42a
+----------------------------------------------------------------------------------------------------
+-> MD5:   8dc596b11203d6f699dca666feb1e446
+----------------------------------------------------------------------------------------------------
+-> MD5:   3f7843c6317684b42bd6950e02b637a6
+----------------------------------------------------------------------------------------------------
+-> MD5:   c2b8b099bb55f52e094d22266b6d7b34
+----------------------------------------------------------------------------------------------------
+-> MD5:   9f259ed206012ed0cdeebb4dbe97808d
+----------------------------------------------------------------------------------------------------
+-> MD5:   a15b9fb2c03353037edeeb10e4dcb6e2
+----------------------------------------------------------------------------------------------------
+-> MD5:   c2d35524644c3162493520b43b441928
+----------------------------------------------------------------------------------------------------
+-> MD5:   13511a7a45e3fa0b250a85484ce97150
+----------------------------------------------------------------------------------------------------
+-> MD5:   6ec4c0644af664b913b4910f1e40498b
+----------------------------------------------------------------------------------------------------
+-> MD5:   79e01c59aa918d9658f34548aca61db3
+----------------------------------------------------------------------------------------------------
+-> MD5:   17b10bd28b01f810e415e8fb5ca5bf76
+----------------------------------------------------------------------------------------------------
+-> MD5:   7d6641e15ab1437b03d2238f3f41bf4f
+----------------------------------------------------------------------------------------------------
+-> MD5:   b6235f3529de0825cc1b7ff26a2338ca
+----------------------------------------------------------------------------------------------------
+-> MD5:   09d1bb01da8b74cca682766758b4d4bd
+----------------------------------------------------------------------------------------------------
+-> MD5:   0a1bc9e4d1ad80bef65cdf259287b3ff
+----------------------------------------------------------------------------------------------------
+-> MD5:   a55b9addb2447db1882a3ae995a70151
+-> VT Detect:   W32.AIDetect.malware1,  Trojan.Agent.CZTF,  Ransom.WannaCrypt.S1670344,  Exploit.CVE.Win32.1766,  Ransom.Win32.Wannacry_0.se,  Trojan.Agent.CZTF,  Win32.Worm.Rbot.a,  Ransom.Wannacry,  Win32/Exploit.CVE-2017-0147.A,  Win.Ransomware.WannaCry-6313787-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Trojan.Win32.Wanna.epxkni,  generic.ml,  Trojan.Win32.Wanna.tpxd,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Trojan.Encoder.11432,  Ransom_WCRY.SMALYM,  BehavesLike.Win32.Generic.tm,  Generic.mg.a55b9addb2447db1,  Trojan.Wanna.k,  W32.Ransom.Wannacrypt,  TR/FileCoder.AU,  Trojan/Generic.ASMalwS.2041E4F,  Trojan.Win32.WannaCry.5267459,  Win32.Trojan-Ransom.WannaCry.K,  Trojan/Win32.WannaCryptor.R200894,  Trojan.Agent.CZTF,  Ransom/W32.WannaCry.5267459,  Hoax.Wanna,  WannaCry.Ransom.Encrypt.DDS,  Ransom_WCRY.SMALYM,  Exploit.CVE-2017-0147,  Trojan.Generic,  Trojan-Ransom.Win32.Wanna.m,  Trj/CI.A
+----------------------------------------------------------------------------------------------------
+-> MD5:   a040b3c2f5ca782febea41d8658209dd
+----------------------------------------------------------------------------------------------------
+-> MD5:   2d4d6f0e87e3ff09d4ecb7abc3b71914
+----------------------------------------------------------------------------------------------------
+-> MD5:   fce211eb34132eb6116b66c3e27eb2de
+----------------------------------------------------------------------------------------------------
+-> MD5:   e7e0979bb8044dd0c930c1d2f973589f
+----------------------------------------------------------------------------------------------------
+-> MD5:   8b7137adb7aac5cbf55b039babb612bc
+-> VT Detect:   W32.AIDetect.malware1,  Trojan.Agent.CZTF,  Generic.mg.8b7137adb7aac5cb,  Ransom.WannaCrypt.S1670344,  Ransom.Win32.Wannacry_0.se,  Trojan.Agent.CZTF,  Win32.Worm.Rbot.a,  Win32/Exploit.CVE-2017-0147.A,  Win.Ransomware.WannaCry-6313787-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Win32.Wanna.epxkni,  Trojan.Win32.WannaCry.5267459,  Trojan.Win32.Wanna.tpxd,  Trojan.Agent.CZTF,  Trojan.Encoder.11432,  Exploit.CVE.Win32.1765,  Ransom_WCRY.SMALYM,  Win32.Trojan-Ransom.WannaCry.K,  Trojan.Wanna.k,  Trojan-Ransom.Win32.Wanna.m,  TR/FileCoder.AU,  Trojan/Generic.ASMalwS.2041E4F,  Trojan.Agent.CZTF,  Trojan/Win32.WannaCryptor.R200894,  Trojan.Agent.CZTF,  Ransom/W32.WannaCry.5267459,  Hoax.Wanna,  WannaCry.Ransom.Encrypt.DDS,  Trj/CI.A,  Ransom_WCRY.SMALYM,  Trojan-Ransom.Win32.Wanna.m,  Exploit.CVE-2017-0147,  Trojan.Generic,  W32.Ransom.Wannacrypt,  generic.ml
+----------------------------------------------------------------------------------------------------
+-> MD5:   e1c8edc65aa2d4cbe2ed756b92d7926a
+----------------------------------------------------------------------------------------------------
+-> MD5:   431777bcaef03bd8480bf1b7305e3b90
+----------------------------------------------------------------------------------------------------
+-> MD5:   39ff4a46010cd4a2c20c95e8ace094f5
+----------------------------------------------------------------------------------------------------
+-> MD5:   1c3fc02d97203bed116e14f89beece04
+----------------------------------------------------------------------------------------------------
+-> MD5:   c0c63e60e0fc9ffc57a46ba9131708ed
+----------------------------------------------------------------------------------------------------
+-> MD5:   062de3279d1979af88630aee917cfe92
+----------------------------------------------------------------------------------------------------
+-> MD5:   9a1ae1d496ead541d17cfc3a0e3c5eef
+----------------------------------------------------------------------------------------------------
+-> MD5:   e806bf220592069f19aecb91b5a15173
+-> VT Detect:   W32.AIDetect.malware1,  Trojan.Encoder.11432,  Trojan.Agent.CZTF,  Generic.mg.e806bf220592069f,  Ransom.WannaCrypt.S1670344,  Trojan.Agent.CZTF,  Exploit.CVE.Win32.1765,  Ransom.Win32.Wannacry_1.se,  Ransom.Wannacry,  Win32/Exploit.CVE-2017-0147.A,  Win.Ransomware.WannaCry-6313787-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Trojan.Win32.Wanna.epxkni,  generic.ml,  Trojan.Win32.WannaCry.5267459,  Trojan.Agent.CZTF,  Win32.Worm.Rbot.a,  Ransom_WCRY.SMALYM,  Exploit.CVE-2017-0147,  Trojan.Wanna.k,  W32.Ransom.Wannacrypt,  TR/Ransom.Gen,  Trojan/Generic.ASMalwS.2041E4F,  Trojan.Win32.Wanna.tpxd,  Win32.Trojan-Ransom.WannaCry.K,  Trojan/Win32.WannaCryptor.R200894,  Hoax.Wanna,  WannaCry.Ransom.Encrypt.DDS,  Ransom_WCRY.SMALYM,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Generic,  Trojan-Ransom.Win32.Wanna.m
+----------------------------------------------------------------------------------------------------
+-> MD5:   b99e6f96aefa286c73d4e8e6c2d83dda
+----------------------------------------------------------------------------------------------------
+-> MD5:   b48f982c64375c10fc168deae12e70ac
+----------------------------------------------------------------------------------------------------
+-> MD5:   a4ec33b8042adbea91f26c478a283c50
+----------------------------------------------------------------------------------------------------
+-> MD5:   da2506e63930938a41ad2bf44d59697b
+----------------------------------------------------------------------------------------------------
+-> MD5:   a1898e4ebec6f43b6448701b7cd456c5
+-> VT Detect:   W32.AIDetect.malware1,  Generic.mg.a1898e4ebec6f43b,  Trojan.Kryptik.Win32.3331082,  Trojan.Win32.Save.a,  malicious.ff2211,  ML.Attribute.HighConfidence,  Trojan.GenericKD.46528936,  generic.ml,  Trojan.GenericKD.46528936,  Trojan.GenericKD.46528936,  Trojan.Siggen14.2129,  TrojanSpy.Win32.GBF.USMANFO21,  BehavesLike.Win32.Lockbit.jc,  Trojan.Stop.xb,  TR/AD.AHKInfoSteal.hidzg,  Trojan.Win32.Kryptik.vb,  Trojan.GenericKD.46528936,  Malware/Win.Generic.R373840,  BScope.Backdoor.Androm,  Trojan.MalPack.GS,  TrojanSpy.Win32.GBF.USMANFO21,  Trojan.Win32.Crypt,  Trojan.Malware.300983.susgen,  W32.Adware.Gen,  Trj/GdSda.A
+----------------------------------------------------------------------------------------------------
+-> MD5:   31f4031d3f9d15928890d21540f76086
+----------------------------------------------------------------------------------------------------
+-> MD5:   62186bebffffcfafb1c70a8ff03fa317
+----------------------------------------------------------------------------------------------------
+-> MD5:   5e1792eae07b1aa1771f496f338e11c1
+----------------------------------------------------------------------------------------------------
+-> MD5:   49d86d55cd552810ff3b3eeacdfbbbc7
+----------------------------------------------------------------------------------------------------
+-> MD5:   5a6865c2a2cf22984c1aaf62d6f4c736
+----------------------------------------------------------------------------------------------------
+-> MD5:   5cc2876e6d55fc36c6c40bc8ef66a476
+----------------------------------------------------------------------------------------------------
+-> MD5:   bff01fec101dae25a2ce83b5666edd58
+----------------------------------------------------------------------------------------------------
+-> MD5:   b19420967dfc223658a907a58a59a563
+----------------------------------------------------------------------------------------------------
+-> MD5:   675ca172a6c351db3f43d328c7347097
+----------------------------------------------------------------------------------------------------
+-> MD5:   f84f30bdc352688afd4fe752bbbfe005
+----------------------------------------------------------------------------------------------------
+-> MD5:   a85e6746a9b2c8b9f66d030ff757dc7f
+----------------------------------------------------------------------------------------------------
+-> MD5:   33b04d0e8004d24fcac4f9ca3719f809
+----------------------------------------------------------------------------------------------------
+-> MD5:   1aec7aa3b662528e0e0966d745a31bdd
+----------------------------------------------------------------------------------------------------
+-> MD5:   3695f6d3175e85e25ea3cc65ab3801cf
+-> VT Detect:   W32.FamVT.HyperiOF.Trojan,  Trojan.Agent.CZTF,  Generic.mg.3695f6d3175e85e2,  Ransom.Zenshirsh.SL8,  Win32/Ransom.WannaCry.HxoCdr8A,  WannaCry.Ransom.Encrypt.DDS,  Trojan.Agent.CZTF,  Ransom.Wannacry,  Win32/Exploit.CVE-2017-0147.A,  Win32.Worm.Rbot.a,  Win.Ransomware.WannaCry-6313787-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Win32.Wanna.epxkni,  Trojan.Win32.WannaCry.5267459,  Trojan.Win32.Wanna.tpxd,  Trojan.Agent.CZTF,  Ransom/W32.WannaCry.5267459,  Trojan.Encoder.11432,  Exploit.CVE.Win32.1765,  Ransom_WCRY.SMALYM,  BehavesLike.Win32.Generic.tt,  Exploit.CVE-2017-0147,  Trojan.Wanna.k,  W32.Ransom.Wannacrypt,  TR/AD.WannaCry.pskpy,  Win32.Trojan-Ransom.WannaCry.K,  Trojan/Win32.WannaCryptor.R200894,  Hoax.Wanna,  Trojan.Agent.CZTF,  Trj/CI.A,  Ransom_WCRY.SMALYM,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Generic,  generic.ml
+----------------------------------------------------------------------------------------------------
+-> MD5:   73a444580fd59a8dbb9e9d4d13b63486
+----------------------------------------------------------------------------------------------------
+-> MD5:   cd99e5e4f44621978faf8df0e01d2d2b
+-> VT Detect:   W32.FamVT.HyperiOF.Trojan,  Trojan.Encoder.11432,  Trojan.Agent.CZTF,  Generic.mg.cd99e5e4f4462197,  Trojan.GenericRI.S7132805,  Trojan.Agent/Gen-WannaCrypt,  Ransom.Win32.Wannacry_0.se,  Ransom.Wannacry,  Win32/Exploit.CVE-2017-0147.A,  Win.Ransomware.WannaCry-6313787-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Trojan.Win32.Wanna.epxkni,  generic.ml,  Trojan.Win32.WannaCry.5267459,  Trojan.Agent.CZTF,  Win32.Worm.Rbot.a,  Trojan.Wanna.Win32.98,  Ransom_WCRY.SMALYM,  BehavesLike.Win32.Generic.tt,  Exploit.CVE-2017-0147,  Trojan.Wanna.k,  W32.Ransom.Wannacrypt,  TR/AD.DPulsarShellcode.gohtr,  Trojan.Win32.Wanna.tpxd,  Win32.Trojan-Ransom.WannaCry.K,  Trojan/Win32.WannaCryptor.R200894,  Hoax.Wanna,  Ransom/W32.WannaCry.5267459.F,  WannaCry.Ransom.Encrypt.DDS,  Ransom_WCRY.SMALYM,  Malware.Win32.Gencirc.10b3a623,  Trojan.Generic,  Trojan-Ransom.Win32.Wanna.m,  Trj/CI.A
+----------------------------------------------------------------------------------------------------
+-> MD5:   b3d4ccb5694b66458333bf73cc5cb088
+-> VT Detect:   Application.SearchProtect.EL,  Generic.mg.b3d4ccb5694b6645,  PUA.Clientconn.Gen,  Adware.SearchProtect.Win32.370,  PUP.Adware.ClientConnect,  W32/Application.ULQW-7967,  Application.SearchProtect.EL,  Riskware.Win32.SearchProtect.ecmnqh,  PotentialRisk.PUA/SearchProtect.Gen,  Adware.Conduit.298,  AdWare.SearchProtect.fs,  Pua.Conduit,  PUA/SearchProtect.Gen,  Win32.Application.SearchProtect.AK,  PUP/Win32.Generic.R179441,  AdWare.SearchProtect,  PUP.Optional.SearchProtect,  PUA.ClientConnect,  malicious.5694b6,  Generic/Application.4cf
+----------------------------------------------------------------------------------------------------
+-> MD5:   f1e05cb78374a2efc615f6ba7d628ede
+----------------------------------------------------------------------------------------------------
+-> MD5:   ae7fa92c83b8647dd395bedb433088d8
+----------------------------------------------------------------------------------------------------
+-> MD5:   5d94d099776243dc9fb7014d70da8cb3
+----------------------------------------------------------------------------------------------------
+-> MD5:   6e52f9066149d3383f769009fa97ee6a
+----------------------------------------------------------------------------------------------------
+-> MD5:   017f63d0be693e53bc5b8edd426cfbd1
+----------------------------------------------------------------------------------------------------
+-> MD5:   3d921c20ad33e43ae3496ccd37fdff7d
+----------------------------------------------------------------------------------------------------
+-> MD5:   c475b82f1e0b421e051622f034b1d5e3
+----------------------------------------------------------------------------------------------------
+-> MD5:   43d1b7c9d0a2ad17457ef6199c16a6c6
+----------------------------------------------------------------------------------------------------
+-> MD5:   0a453c74a3629d81cfcc10e77c7b3539
+----------------------------------------------------------------------------------------------------
+-> MD5:   5ff35bead91ba5d8359afc1389a9ab5e
+----------------------------------------------------------------------------------------------------
+-> MD5:   c2655295212060ebffe2e90b4f85e7fe
+----------------------------------------------------------------------------------------------------
+-> MD5:   e7c6c332c837f5cfb6c358361002a2f5
+----------------------------------------------------------------------------------------------------
+-> MD5:   74c1609fdedfcdb220f513f04ba7d320
+----------------------------------------------------------------------------------------------------
+-> MD5:   7c7262d9e49a40a52d0040942810456c
+----------------------------------------------------------------------------------------------------
+-> MD5:   e106e3b19607ed2c2cb2af0ac5d1b27d
+----------------------------------------------------------------------------------------------------
+-> MD5:   033f9150e241e7accecb60d849481871
+-> VT Detect:   W32.FamVT.HyperiOF.Trojan,  Trojan.Agent.CZTF,  Generic.mg.033f9150e241e7ac,  Ransom.WannaCrypt.S1670344,  Trojan.Ransom.WannaCryptor,  Exploit.CVE.Win32.1765,  Ransom.Win32.Wannacry_0.se,  Trojan.Agent.CZTF,  Win32.Worm.Rbot.a,  Ransom.Wannacry,  Win32/Exploit.CVE-2017-0147.A,  Win.Ransomware.WannaCry-6313787-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Trojan.Win32.Wanna.epxkni,  generic.ml,  Trojan.Win32.WannaCry.5267459,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Ransom/W32.WannaCry.5267459,  Trojan.Encoder.11432,  Ransom_WCRY.SMALYM,  BehavesLike.Win32.Generic.th,  Exploit.CVE-2017-0147,  Trojan.Wanna.k,  W32.Ransom.Wannacrypt,  TR/AD.WannaCry.zbqny,  Trojan.Generic,  Trojan/Generic.ASMalwS.2041E4F,  Trojan.Win32.Wanna.tpxd,  Trojan-Ransom.Win32.Wanna.m,  Win32.Trojan-Ransom.WannaCry.K,  Trojan/Win32.WannaCryptor.R200894,  Hoax.Wanna,  WannaCry.Ransom.Encrypt.DDS,  Ransom_WCRY.SMALYM,  Trojan-Ransom.Win32.Wanna.m,  Trj/CI.A
+----------------------------------------------------------------------------------------------------
+-> MD5:   585368207fab5116640f854d6e6f742a
+----------------------------------------------------------------------------------------------------
+-> MD5:   0a32af7486ad37209fbef9b5789901e8
+----------------------------------------------------------------------------------------------------
+-> MD5:   0ab2aeda90221832167e5127332dd702
+-> VT Detect:   W32.FamVT.HyperiOF.Trojan,  Trojan.Agent.CZTF,  Ransom.WannaCrypt.S1670344,  Trojan.Agent.CZTF,  Exploit.CVE.Win32.1765,  Ransom.Win32.Wannacry_0.se,  Trojan.Agent.CZTF,  Win32.Worm.Rbot.a,  Ransom.Wannacry,  Win32/Exploit.CVE-2017-0147.A,  Win.Ransomware.WannaCry-6313787-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Trojan.Win32.Wanna.epxkni,  generic.ml,  Trojan.Win32.Wanna.tpxd,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Trojan.Encoder.11432,  Ransom_WCRY.SMALYM,  BehavesLike.Win32.Generic.th,  Generic.mg.0ab2aeda90221832,  Trojan.Wanna.k,  W32.Ransom.Wannacrypt,  TR/AD.WannaCry.zbqny,  Trojan.Generic,  Trojan/Generic.ASMalwS.2041E4F,  Trojan.Win32.WannaCry.5267459,  Win32.Trojan-Ransom.WannaCry.K,  Trojan/Win32.WannaCryptor.R200894,  Ransom/W32.WannaCry.5267459,  Hoax.Wanna,  WannaCry.Ransom.Encrypt.DDS,  Ransom_WCRY.SMALYM,  Exploit.CVE-2017-0147,  Trojan-Ransom.Win32.Wanna.m,  Trj/CI.A
+----------------------------------------------------------------------------------------------------
+-> MD5:   fcb6b0f95853dfda72d5535a424b3a29
+-> VT Detect:   W32.FamVT.HyperiOF.Trojan,  Trojan.Encoder.11432,  Trojan.Agent.CZTF,  Generic.mg.fcb6b0f95853dfda,  Trojan.GenericRI.S7132805,  Trojan.Wanna.Win32.98,  Trojan.Agent/Gen-WannaCrypt,  Ransom.Win32.Wannacry_0.se,  Ransom.Wannacry,  Win32/Exploit.CVE-2017-0147.A,  Win.Ransomware.WannaCry-6313787-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Trojan.Win32.Wanna.epxkni,  generic.ml,  Trojan.Win32.Wanna.tpxd,  Trojan.Agent.CZTF,  Ransom/W32.WannaCry.5267459.AN,  Win32.Worm.Rbot.a,  Ransom_WCRY.SMALYM,  BehavesLike.Win32.Generic.tz,  Exploit.CVE-2017-0147,  Trojan.Wanna.k,  W32.Trojan.Gen,  TR/AD.DPulsarShellcode.fqgnr,  Trojan/Generic.ASMalwS.2041E4F,  Trojan.Win32.WannaCry.5267459,  Win32.Trojan-Ransom.WannaCry.K,  Trojan/Win32.WannaCryptor.R200894,  Hoax.Wanna,  Trojan.Agent.CZTF,  WannaCry.Ransom.Encrypt.DDS,  Ransom_WCRY.SMALYM,  Malware.Win32.Gencirc.10b3a623,  Trojan.Generic,  Trojan-Ransom.Win32.Wanna.m,  Trj/CI.A
+----------------------------------------------------------------------------------------------------
+-> MD5:   8863c60610097677fc43908554c7860d
+----------------------------------------------------------------------------------------------------
+-> MD5:   4c1ca3c037f6bc8145b341d369f0c62f
+----------------------------------------------------------------------------------------------------
+-> MD5:   a4ea15978b7ff55299f822d2a13bb09a
+----------------------------------------------------------------------------------------------------
+-> MD5:   1813f48198029c592e139bcd5ffc2194
+----------------------------------------------------------------------------------------------------
+-> MD5:   e07b1006b251db11368b60f57e13cb0e
+----------------------------------------------------------------------------------------------------
+-> MD5:   5e6760ceddb81e478206a42e523124df
+----------------------------------------------------------------------------------------------------
+-> MD5:   d58fef5143d515816faeeeacc1627286
+----------------------------------------------------------------------------------------------------
+-> MD5:   f84d24154b96358685ee44f6ebc1f8e7
+-> VT Detect:   W32.DikasarDGE.Trojan,  Trojan.GenericKD.40267082,  Generic.mg.f84d24154b963586,  Ransom.WannaCrypt.S1670344,  Exploit.CVE.Win32.1766,  Trojan.Generic.D2666D4A,  Win32.Worm.Rbot.a,  Ransom.Wannacry,  generic.ml,  Win.Ransomware.WannaCry-6313787-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.GenericKD.40267082,  Trojan.Win32.Wanna.epxkni,  Trojan.Win32.Wanna.tpxd,  Trojan-Ransom.Win32.Wanna.m,  Trojan.GenericKD.40267082,  Trojan.TR/Ransom.Gen,  Trojan.Encoder.11432,  Ransom_WCRY.SMALYM,  BehavesLike.Win32.RansomWannaCry.tm,  malicious.high.ml.score,  Trojan.Wanna.k,  Trojan.Generic,  TR/Ransom.Gen,  Trojan.Win32.WannaCry.5267459,  Trojan-Ransom.Win32.Wanna.m,  Trojan.GenericKD.40267082,  Ransom/W32.WannaCry.5267459,  Trojan/Win32.WannaCryptor.R200894,  Trojan.GenericKD.40267082,  Hoax.Wanna,  Ransom.WannaCrypt,  Win32/Exploit.CVE-2017-0147.A,  Ransom_WCRY.SMALYM,  Exploit.CVE-2017-0147,  Trojan-Ransom.Win32.Wanna.m,  W32.Trojan.Gen,  Trj/Genetic.gen,  Win32/Worm.WannaCrypt.W
+----------------------------------------------------------------------------------------------------
+-> MD5:   c75ffa4609fa33b0f230cbe0b55e7f8a
+----------------------------------------------------------------------------------------------------
+-> MD5:   94bbee3cdbcc598b4fc638b6ece1f35e
+----------------------------------------------------------------------------------------------------
+-> MD5:   70e97b8ae8f08c3f8c2cbf4d81192cf0
+----------------------------------------------------------------------------------------------------
+-> MD5:   140b4c0772314e0c81ac1b899fb2aae8
+----------------------------------------------------------------------------------------------------
+-> MD5:   c93242e49da5472c96ab4d38da2db2c7
+-> VT Detect:   Trojan.PackedNET.879,  Trojan.GenericKD.37146282,  Trojan.GenericKD.37146282,  RDN/Generic.grp,  Backdoor.MSIL.Androm.gen,  malicious.b067ce,  Trojan.Gen.2,  Trojan.GenericKD.37146282,  generic.ml,  Trojan.GenericKD.37146282,  RDN/Generic.grp,  TR/AD.LokiBot.bdmnb,  Trojan.Win32.Agent.oa,  Trojan.GenericKD.37146282,  Trojan/Win.Generic.C4535224,  Trojan.Crypt.MSIL,  TROJ_GEN.R002H0CFP21,  Trojan.MSIL.Crypt,  Trojan.Malware.300983.susgen,  W32.Trojan.Gen,  Trj/GdSda.A
+----------------------------------------------------------------------------------------------------
+-> MD5:   08a1e7f463d7d45cd1ea9e4648702c69
+----------------------------------------------------------------------------------------------------
+-> MD5:   e1d039fffde52305c0b315b3bd34beec
+----------------------------------------------------------------------------------------------------
+-> MD5:   21af3a725f4f84dbba71023566d97ed2
+-> VT Detect:   W32.FamVT.HyperiOF.Trojan,  Trojan.Encoder.11432,  Trojan.Agent.CZTF,  Generic.mg.21af3a725f4f84db,  Ransom.WannaCrypt.S1670344,  Exploit.CVE.Win32.1766,  Trojan.Agent.CZTF,  Ransom.Wannacry,  Ransom_WCRY.SMALYM,  generic.ml,  Win.Ransomware.WannaCry-6313787-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Trojan.Win32.Wanna.epxkni,  Trojan.Win32.WannaCry.5267459,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Ransom/W32.WannaCry.5267459,  Trojan.TR/AD.WannaCry.zlvln,  Win32.Worm.Rbot.a,  Ransom_WCRY.SMALYM,  Trojan.Wanna.k,  W32.Trojan.Gen,  TR/AD.WannaCry.zlvln,  Trojan.Win32.Wanna.tpxd,  Trojan-Ransom.Win32.Wanna.m,  Win32.Trojan-Ransom.WannaCry.K,  Trojan/Win32.WannaCryptor.R200894,  Hoax.Wanna,  Trojan.Agent.CZTF,  Ransom.WannaCrypt,  Win32/Exploit.CVE-2017-0147.A,  Exploit.CVE-2017-0147,  Trojan.Generic,  Trj/Genetic.gen,  Win32/Worm.WannaCrypt.W
+----------------------------------------------------------------------------------------------------
+-> MD5:   790d32b24be33acb84bf56a73fac43cd
+----------------------------------------------------------------------------------------------------
+-> MD5:   2f2662e80f8ef6f6b34fc776e865965f
+----------------------------------------------------------------------------------------------------
+-> MD5:   8f5f214c98f0287f8ef9ecc18e1fab41
+----------------------------------------------------------------------------------------------------
+-> MD5:   971d63d686c01ffa1ef4636132630d4b
+----------------------------------------------------------------------------------------------------
+-> MD5:   b1d5e1bc6f427072bc7d3453e6902764
+----------------------------------------------------------------------------------------------------
+-> MD5:   54712119d3ef52a90e26fb2c85b4ad24
+----------------------------------------------------------------------------------------------------
+-> MD5:   3226d20891ffa8f3562623ae16ac53f3
+----------------------------------------------------------------------------------------------------
+-> MD5:   fd1676674a0510d8a91942c6b9db4553
+----------------------------------------------------------------------------------------------------
+-> MD5:   079d869af86bf668587af75287c37d7f
+----------------------------------------------------------------------------------------------------
+-> MD5:   02f780a4cc570fdc04081220cd160cbe
+----------------------------------------------------------------------------------------------------
+-> MD5:   542cc9c218b51287317dcdf347450ffc
+----------------------------------------------------------------------------------------------------
+-> MD5:   78c9042bbcefd65beaa0d40386da9f89
+----------------------------------------------------------------------------------------------------
+-> MD5:   74b16d9cf7d09b4878401401a481223b
+----------------------------------------------------------------------------------------------------
+-> MD5:   53bf6d96ef2717b36e20b37a94890435
+----------------------------------------------------------------------------------------------------
+-> MD5:   48eb7351a57596a4e57931b194ca8d72
+----------------------------------------------------------------------------------------------------
+-> MD5:   d7ae9f5acea0443ecccc3c3777de0b9e
+----------------------------------------------------------------------------------------------------
+-> MD5:   6ff84d1b210f748cf0c1887a83e185d6
+----------------------------------------------------------------------------------------------------
+-> MD5:   2018940175e0ca6c0cd0b1708d77ff6c
+----------------------------------------------------------------------------------------------------
+-> MD5:   3297b59429e6862504102001f277a16e
+----------------------------------------------------------------------------------------------------
+-> MD5:   b1f531440cb8b9f0de48a60cff4e5317
+----------------------------------------------------------------------------------------------------
+-> MD5:   92d8c89e8dc92d61a9ff78a304711791
+----------------------------------------------------------------------------------------------------
+-> MD5:   e9d1ba0ee54fcdf37cf458cd3209c9f3
+-> VT Detect:   W32.FamVT.HyperiOF.Trojan,  Trojan.Encoder.11432,  Trojan.Agent.CZTF,  Generic.mg.e9d1ba0ee54fcdf3,  Trojan.GenericRI.S7132805,  Trojan.Wanna.Win32.98,  Ransom.Win32.Wannacry_1.se,  Ransom.Wannacry,  Win32/Exploit.CVE-2017-0147.A,  Win.Ransomware.WannaCry-6313787-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Trojan.Win32.Wanna.epxkni,  generic.ml,  Trojan.Win32.WannaCry.5267459,  Malware.Win32.Gencirc.10b3a623,  Trojan.Agent.CZTF,  Win32.Worm.Rbot.a,  Ransom_WCRY.THBOGH,  BehavesLike.Win32.Generic.tt,  Trojan.Wanna.k,  Trojan.Generic,  TR/AD.DPulsarShellcode.uvbfu,  Trojan/Generic.ASMalwS.2041E4F,  Trojan.Win32.Agent.dg,  Trojan.Agent.CZTF,  Trojan.Win32.Wanna.tpxd,  Win32.Trojan-Ransom.WannaCry.K,  Trojan/Win32.WannaCryptor.R200894,  Hoax.Wanna,  Trojan.Agent.CZTF,  Ransom/W32.WannaCry.5267459.F,  WannaCry.Ransom.Encrypt.DDS,  Ransom_WCRY.THBOGH,  Exploit.CVE-2017-0147,  Trojan-Ransom.Win32.Wanna.m,  W32.Trojan.Gen,  Trj/CI.A
+----------------------------------------------------------------------------------------------------
+-> MD5:   7d958a95cf70253e10234d0a597adf7d
+----------------------------------------------------------------------------------------------------
+-> MD5:   dd99215e4ee23ea9530db03ed1cda452
+----------------------------------------------------------------------------------------------------
+-> MD5:   9db49c8331e7667d3be78a88f683aedc
+----------------------------------------------------------------------------------------------------
+-> MD5:   42ddc5fc8c28535f9746310091c82c37
+----------------------------------------------------------------------------------------------------
+-> MD5:   c16edec919fc35cb39097f84f1b87455
+-> VT Detect:   W32.FamVT.HyperiOF.Trojan,  Trojan.Agent.CZTF,  Trojan.GenericRI.S7132805,  Trojan.Agent.CZTF,  Ransom.Win32.Wannacry_0.se,  Trojan.Agent.CZTF,  Win32.Worm.Rbot.a,  Ransom.Wannacry,  Win32/Exploit.CVE-2017-0147.A,  Win.Trojan.Agent-6442363-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Win32.Wanna.epxkni,  Trojan.Win32.WannaCry.5267459,  Trojan.Win32.Wanna.tpxd,  Trojan.Agent.CZTF,  Trojan.Encoder.11432,  Trojan.Wanna.Win32.98,  Ransom_WCRY.SMALYM,  BehavesLike.Win32.Generic.tt,  Generic.mg.c16edec919fc35cb,  Exploit.CVE-2017-0147,  Win32.Trojan-Ransom.WannaCry.K,  Trojan.Wanna.k,  W32.Trojan.Gen,  TR/AD.DPulsarShellcode.gohtr,  Trojan/Generic.ASMalwS.2041E4F,  Trojan.Agent.CZTF,  Trojan.Agent/Gen-WannaCrypt,  Trojan/Win32.WannaCryptor.R200894,  Ransom/W32.WannaCry.5267459.F,  Hoax.Wanna,  WannaCry.Ransom.Encrypt.DDS,  Trj/CI.A,  Ransom_WCRY.SMALYM,  Malware.Win32.Gencirc.10b3a623,  Trojan-Ransom.Win32.Wanna.m,  generic.ml
+----------------------------------------------------------------------------------------------------
+-> MD5:   8337e6b54b5a982f20228ed33adefa9f
+----------------------------------------------------------------------------------------------------
+-> MD5:   f89084bd31a5aa1d07222428f9deeb77
+----------------------------------------------------------------------------------------------------
+-> MD5:   103ef5b9b04a1bb72a1feb10997e0ef0
+----------------------------------------------------------------------------------------------------
+-> MD5:   62c8f28baca7b69711b213e35d316173
+----------------------------------------------------------------------------------------------------
+-> MD5:   84ca8eab52cffba95a26159fcba9d1b9
+----------------------------------------------------------------------------------------------------
+-> MD5:   6020914469ed6fbbd0a01eb11eb35c70
+----------------------------------------------------------------------------------------------------
+-> MD5:   fd983e568bc131f22d3fd7d1119d66c6
+----------------------------------------------------------------------------------------------------
+-> MD5:   516632c1dd64605ea93c4f6929a2806a
+----------------------------------------------------------------------------------------------------
+-> MD5:   560c8d8b51659d30527fe62dcc0cb4e5
+-> VT Detect:   W32.AIDetect.malware1,  Trojan.Agent.CZTF,  Generic.mg.560c8d8b51659d30,  Ransom.WannaCrypt.S1670344,  Trojan.Agent.CZTF,  Exploit.CVE.Win32.1764,  Ransom.Win32.Wannacry_0.se,  Ransom.Wannacry,  Win32/Exploit.CVE-2017-0147.A,  Win32.Worm.Rbot.a,  Ransom_WCRY.SMALYM,  Win.Ransomware.WannaCry-6313787-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Trojan.Win32.Wanna.epxkni,  generic.ml,  Trojan.Win32.Wanna.tpxd,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Trojan.Encoder.11432,  Ransom_WCRY.SMALYM,  BehavesLike.Win32.Generic.tz,  Win32.Trojan-Ransom.WannaCry.K,  Trojan.Wanna.k,  TR/AD.WannaCry.pgmeu,  Trojan/Generic.ASMalwS.2041E4F,  Trojan.Win32.Agent.dg,  Trojan.Agent.CZTF,  Trojan.Win32.WannaCry.5267459,  Trojan/Win32.WannaCryptor.R200894,  Ransom/W32.WannaCry.5267459,  Hoax.Wanna,  WannaCry.Ransom.Encrypt.DDS,  Exploit.CVE-2017-0147,  Trojan-Ransom.Win32.Wanna.m
+----------------------------------------------------------------------------------------------------
+-> MD5:   fcb833617935365ea4a4f9d1e0088633
+----------------------------------------------------------------------------------------------------
+-> MD5:   3b25b4407e5343c55f87a0325aad2e9f
+----------------------------------------------------------------------------------------------------
+-> MD5:   ad6509463c3fe2164613c56a909807f3
+----------------------------------------------------------------------------------------------------
+-> MD5:   e0ca3d509c7caf4f28c094c447e929f8
+----------------------------------------------------------------------------------------------------
+-> MD5:   75e7308aacb22402184d08ee9712f89b
+----------------------------------------------------------------------------------------------------
+-> MD5:   ed03cfcc81546aee052e5d3360abda8d
+----------------------------------------------------------------------------------------------------
+-> MD5:   a4d49eaf60a8e333708469606ad9e1a4
+-> VT Detect:   W32.AIDetect.malware2,  Trojan.Agent.CZTF,  Ransom.WannaCrypt.S1670344,  Trojan.Agent.CZTF,  Exploit.CVE.Win32.1766,  Ransom.Win32.Wannacry_0.se,  Trojan.Agent.CZTF,  Win32.Worm.Rbot.a,  Ransom.Wannacry,  Win32/Exploit.CVE-2017-0147.A,  Win.Ransomware.WannaCry-6313787-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Trojan.Win32.Wanna.epxkni,  generic.ml,  Trojan.Win32.Wanna.tpxd,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Ransom/W32.WannaCry.5267459.EF,  Trojan.Encoder.11432,  Ransom_WCRY.SMALYM,  BehavesLike.Win32.Generic.tz,  Generic.mg.a4d49eaf60a8e333,  Trojan.Wanna.k,  W32.Ransom.Wannacrypt,  TR/Ransom.Gen,  Trojan.Generic,  Trojan/Generic.ASMalwS.2041E4F,  Trojan.Win32.WannaCry.5267459,  Win32.Trojan-Ransom.WannaCry.K,  Trojan/Win32.WannaCryptor.R200894,  Hoax.Wanna,  WannaCry.Ransom.Encrypt.DDS,  Ransom_WCRY.SMALYM,  Exploit.CVE-2017-0147,  Trojan-Ransom.Win32.Wanna.m,  Trj/CI.A
+----------------------------------------------------------------------------------------------------
+-> MD5:   9356e66f9e704c587c66521fff104ddd
+----------------------------------------------------------------------------------------------------
+-> MD5:   2e4f2c48b719e102842ddab792e229b8
+----------------------------------------------------------------------------------------------------
+-> MD5:   a44a654c5d0f1673322f3ccdaffcaaca
+----------------------------------------------------------------------------------------------------
+-> MD5:   70f73040b04bd10072e2e325efcc8ff3
+----------------------------------------------------------------------------------------------------
+-> MD5:   d15470019066dd9ed141103dedf13676
+----------------------------------------------------------------------------------------------------
+-> MD5:   ca183683227d610072473bc5d7cae338
+----------------------------------------------------------------------------------------------------
+-> MD5:   d88af4a1a1efa273fd33b262696f530e
+----------------------------------------------------------------------------------------------------
+-> MD5:   95301608649067070342d4e740ccd154
+----------------------------------------------------------------------------------------------------
+-> MD5:   7101dd537b2be5f924658788c398126b
+----------------------------------------------------------------------------------------------------
+-> MD5:   e744ec89fa4c34543febb46dc19cd4e6
+----------------------------------------------------------------------------------------------------
+-> MD5:   7b7ba402f370903873c0dd6bb8dcfb3a
+----------------------------------------------------------------------------------------------------
+-> MD5:   c2dd5948470999050b86f96b1e286198
+----------------------------------------------------------------------------------------------------
+-> MD5:   bc3f0f1a4e96c70428030a74527b64c8
+----------------------------------------------------------------------------------------------------
+-> MD5:   b3812008522d080fcbdec1adc499df2b
+-> VT Detect:   W32.MoneroMinerAH.Trojan,  Trojan.DownLoader34.9794,  Generic.mg.b3812008522d080f,  Trojan.WebDown,  Trojan.Webdown.Win32.5,  Trojan.Win32.Save.a,  Ransom.Wannacry,  Win.Downloader.Webdown-9850242-0,  Trojan.Win32.Webdown.fadmzk,  Malware.Win32.Gencirc.10b9ac5f,  BehavesLike.Win32.Trojan.km,  TrojanDownloader.Generic.awtc,  HEUR/AGEN.1112495,  Trojan.Barys.D13BB8,  Trojan/Win32.Downloader.R210634,  BScope.Trojan.Webdown,  Malware.AI.863599576,  TROJ_GEN.R002C0DDM21,  Trojan-Downloader.Win32.Small,  Trj/Genetic.gen
+----------------------------------------------------------------------------------------------------
+-> MD5:   5bef411515bbeaa23876c153ce9af8ce
+----------------------------------------------------------------------------------------------------
+-> MD5:   fecedeedc700847c52753f372c6b6357
+----------------------------------------------------------------------------------------------------
+-> MD5:   9aca1d2e2f94c7b2c5a0caf0f222d1b1
+----------------------------------------------------------------------------------------------------
+-> MD5:   7ac414d89337c8e0534e832a56ef6e4d
+----------------------------------------------------------------------------------------------------
+-> MD5:   9916c9573f4eca7d9ed325e5f9790ad5
+----------------------------------------------------------------------------------------------------
+-> MD5:   96b11451d63b36111ba78a37532e97f3
+----------------------------------------------------------------------------------------------------
+-> MD5:   356ffe2a1df1900a1d6c80692322a801
+----------------------------------------------------------------------------------------------------
+-> MD5:   951b218fab52434aa7d4624c03dd3415
+----------------------------------------------------------------------------------------------------
+-> MD5:   3e141a84164f8e7b7b7eae8e208f769e
+----------------------------------------------------------------------------------------------------
+-> MD5:   c7af1f6747d5c61e97d556dec9aec85c
+----------------------------------------------------------------------------------------------------
+-> MD5:   7b36f7400889db463c541a8295082fc8
+----------------------------------------------------------------------------------------------------
+-> MD5:   774d9316da080784de8066fb74912223
+----------------------------------------------------------------------------------------------------
+-> MD5:   194fe9244a45047ffedbddab7304bf46
+-> VT Detect:   W32.PikosaDTAN.Trojan,  Trojan.Agent.CZTF,  Ransom.WannaCrypt.A4,  Exploit.CVE.Win32.1766,  Ransom.Win32.Wannacry_0.se,  Trojan.Agent.CZTF,  Win32.Worm.Rbot.a,  Ransom.Wannacry,  Win.Ransomware.WannaCry-6313787-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Trojan.Win32.Wanna.epxkni,  generic.ml,  Trojan.Win32.WannaCry.5267459,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Ransom/W32.WannaCry.5267459,  Trojan.Encoder.11432,  Ransom_WCRY.SMALYM,  BehavesLike.Win32.Generic.tm,  Generic.mg.194fe9244a45047f,  Win32/Exploit.CVE-2017-0147.A,  TR/AD.WannaCry.lrzjp,  Trojan.Win32.Wanna.tpxd,  Trojan-Ransom.Win32.Wanna.m,  Win32.Trojan-Ransom.WannaCry.K,  Trojan/Win32.WannaCryptor.R200894,  Trojan.Agent.CZTF,  Hoax.Wanna,  WannaCry.Ransom.Encrypt.DDS,  Ransom_WCRY.SMALYM,  Exploit.CVE-2017-0147,  Trojan.Generic,  Trojan-Ransom.Win32.Wanna.m,  Trj/CI.A,  Win32/Ransom.WannaCry.HxoC6AcA
+----------------------------------------------------------------------------------------------------
+-> MD5:   c862b84a2b0a29117c5a2feb73838d2e
+----------------------------------------------------------------------------------------------------
+-> MD5:   7852d9e3cb8811cb44964e0f74c59d14
+----------------------------------------------------------------------------------------------------
+-> MD5:   00c9e54f5c2c31cf4bc2bb0a178712ec
+----------------------------------------------------------------------------------------------------
+-> MD5:   740c26b7228d139bf0082d5e47bcef87
+----------------------------------------------------------------------------------------------------
+-> MD5:   50a4daa7e9c1fc8a4b62457f9d7538c9
+----------------------------------------------------------------------------------------------------
+-> MD5:   9ecca08445521f486fe9bff458817b2f
+----------------------------------------------------------------------------------------------------
+-> MD5:   a4215980dac1faef2b07271ba46b7117
+----------------------------------------------------------------------------------------------------
+-> MD5:   047e400b157bb787277db424c182f4e7
+----------------------------------------------------------------------------------------------------
+-> MD5:   b7136b8c5c7e7efe559bd3a70d8200e0
+----------------------------------------------------------------------------------------------------
+-> MD5:   014ae77d9d8126e805c49d8682b8bb37
+----------------------------------------------------------------------------------------------------
+-> MD5:   c9aaebff7a6bfa505bf2e171c3775df0
+----------------------------------------------------------------------------------------------------
+-> MD5:   9591bd448a0e5a78a753a88e30ec8fd7
+----------------------------------------------------------------------------------------------------
+-> MD5:   709e4bfe015ece74ba2f90752f1c1164
+----------------------------------------------------------------------------------------------------
+-> MD5:   c2b3f51728001fbaaa5a73fcaf3e1a68
+----------------------------------------------------------------------------------------------------
+-> MD5:   6e72ad805b4322612b9c9c7673a45635
+-> VT Detect:   W32.FamVT.HyperiOF.Trojan,  Trojan.Agent.CZTF,  Generic.mg.6e72ad805b432261,  Trojan.GenericRI.S7132805,  Ransom.Win32.Wannacry_0.se,  Trojan.Agent.CZTF,  Ransom.Wannacry,  Win32/Exploit.CVE-2017-0147.A,  Win32.Worm.Rbot.a,  Win.Ransomware.WannaCry-6313787-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Win32.Wanna.epxkni,  Trojan.Win32.WannaCry.5267459,  Trojan.Win32.Wanna.tpxd,  Trojan.Agent.CZTF,  Trojan.Encoder.11432,  Trojan.Wanna.Win32.98,  Ransom_WCRY.SMALYM,  BehavesLike.Win32.Generic.tt,  Win32.Trojan-Ransom.WannaCry.K,  Trojan.Wanna.k,  W32.Trojan.Gen,  TR/AD.DPulsarShellcode.gohtr,  Trojan.Agent.CZTF,  Trojan.Agent/Gen-WannaCrypt,  Trojan-Ransom.Win32.Wanna.m,  Trojan/Win32.WannaCryptor.R200894,  Hoax.Wanna,  Trojan.Agent.CZTF,  Ransom/W32.WannaCry.5267459.F,  WannaCry.Ransom.Encrypt.DDS,  Trj/CI.A,  Ransom_WCRY.SMALYM,  Malware.Win32.Gencirc.10b3a623,  Exploit.CVE-2017-0147,  Trojan.Generic,  Trojan-Ransom.Win32.Wanna.m,  generic.ml
+----------------------------------------------------------------------------------------------------
+-> MD5:   b7ab9be4936d5128e13a976d4b629dd8
+----------------------------------------------------------------------------------------------------
+-> MD5:   2e864d4d42a1030cdd510c5af0131804
+----------------------------------------------------------------------------------------------------
+-> MD5:   6b0ac3a36170aa066c86caec90aea67b
+----------------------------------------------------------------------------------------------------
+-> MD5:   a15b2ec99adc0f21b1ad7eb2eaa18ddf
+----------------------------------------------------------------------------------------------------
+-> MD5:   02a37e391749d5da2b3a4c8bb8e752d7
+----------------------------------------------------------------------------------------------------
+-> MD5:   fe4b04e209139e8e1ef53f5d79893580
+----------------------------------------------------------------------------------------------------
+-> MD5:   850925e8226561e45a44725d18706097
+----------------------------------------------------------------------------------------------------
+-> MD5:   b8c85c7e56762fdc2d31d2dd363aff0b
+----------------------------------------------------------------------------------------------------
+-> MD5:   6b8f35c0e97b6387f6de945afdb59a42
+----------------------------------------------------------------------------------------------------
+-> MD5:   6e270c6289a13d2b22b824007fa1083a
+----------------------------------------------------------------------------------------------------
+-> MD5:   7410df6db7dd9dfc0c4103efa8d13fc9
+----------------------------------------------------------------------------------------------------
+-> MD5:   7bf0fb013eef78b55c39cbc62339e4a5
+----------------------------------------------------------------------------------------------------
+-> MD5:   e6cc34d3d80b6941ac7fbd8bbb1ddbc5
+----------------------------------------------------------------------------------------------------
+-> MD5:   e5b895e9aa0f2d53b535f968bd05ae7f
+----------------------------------------------------------------------------------------------------
+-> MD5:   f07ce87fb0fee1ccc330e07141be91f9
+----------------------------------------------------------------------------------------------------
+-> MD5:   38286e01562281f18e5774e9259fcdc4
+----------------------------------------------------------------------------------------------------
+-> MD5:   3ce7baba17fcf32f7310e9ab435b9511
+----------------------------------------------------------------------------------------------------
+-> MD5:   4c5c0403d852fcd471a2954fb50f8e60
+----------------------------------------------------------------------------------------------------
+-> MD5:   a34d8bd7493c5f8c2bf381a0267de463
+-> VT Detect:   Trojan.Encoder.11432,  Trojan.Agent.CZTF,  Generic.mg.a34d8bd7493c5f8c,  Trojan.GenericRI.S7132805,  Trojan.Wanna.Win32.98,  Trojan.Agent.CZTF,  Ransom.Wannacry,  generic.ml,  Win.Ransomware.WannaCry-6313787-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Trojan.Win32.Wanna.epxkni,  Trojan.Win32.WannaCry.5267459,  Malware.Win32.Gencirc.10b3a623,  Trojan.Agent.CZTF,  Ransom/W32.WannaCry.5267459.F,  Trojan.TR/AD.DPulsarShellcode.uvbfu,  Win32.Worm.Rbot.a,  Ransom_WCRY.SMALYM,  Exploit.CVE-2017-0147,  Trojan.Wanna.k,  Trojan-Ransom.Win32.Wanna.m,  TR/AD.DPulsarShellcode.uvbfu,  Trojan.Win32.Wanna.tpxd,  Trojan-Ransom.Win32.Wanna.m,  Win32.Trojan-Ransom.WannaCry.K,  Trojan/Win32.WannaCryptor.R200894,  Hoax.Wanna,  Trojan.Agent.CZTF,  Ransom.WannaCrypt,  Win32/Exploit.CVE-2017-0147.A,  Ransom_WCRY.SMALYM,  Trojan.Generic,  W32.Trojan.Gen,  Trj/CI.A,  Win32/Worm.WannaCrypt.W
+----------------------------------------------------------------------------------------------------
+-> MD5:   28ac75b265145ed960bf32813c04979c
+----------------------------------------------------------------------------------------------------
+-> MD5:   8d99254d17f2ea92ac1910f82c50d18f
+----------------------------------------------------------------------------------------------------
+-> MD5:   61fca35c673bcac5409c0b738e6c8b34
+----------------------------------------------------------------------------------------------------
+-> MD5:   fab01169c3376e3e043a63197d180aa9
+----------------------------------------------------------------------------------------------------
+-> MD5:   3f802f6b95addbe6d310b730bc6ff899
+----------------------------------------------------------------------------------------------------
+-> MD5:   7c6da6bd63d2e1f65b84e107beec9dc2
+----------------------------------------------------------------------------------------------------
+-> MD5:   8f5f1d37d83139fe1faa73bf4ae4de4e
+----------------------------------------------------------------------------------------------------
+-> MD5:   5396b02f4382a8700d67c222a1d21a30
+----------------------------------------------------------------------------------------------------
+-> MD5:   4b5a5d9bea89cec2799d6214ec0c2340
+----------------------------------------------------------------------------------------------------
+-> MD5:   358b9c802b3f1774ba1c55ef94faa427
+----------------------------------------------------------------------------------------------------
+-> MD5:   ee5f76b5cc4312095074df3967b13617
+----------------------------------------------------------------------------------------------------
+-> MD5:   5818d137c6c7324aa05a01c8c3cfe9d9
+----------------------------------------------------------------------------------------------------
+-> MD5:   24759ffc449ed731afd46090444c3229
+----------------------------------------------------------------------------------------------------
+-> MD5:   04c71f94367c495e5e9d7ed91fdeb190
+----------------------------------------------------------------------------------------------------
+-> MD5:   95d4eaa382bb065dc3902628ba72f070
+----------------------------------------------------------------------------------------------------
+-> MD5:   c3771d736c9c8811ee5e44cbd533bc60
+----------------------------------------------------------------------------------------------------
+-> MD5:   4fbfa754204df11c5d7d4d76bb4b777f
+----------------------------------------------------------------------------------------------------
+-> MD5:   0de31315e71fdd32cb0c1fd5649ff3bf
+----------------------------------------------------------------------------------------------------
+-> MD5:   ff5ab9ce41d93ed5dd47c9b0527fd5ca
+----------------------------------------------------------------------------------------------------
+-> MD5:   dbff8fcc35072e5395bfd88005ffc733
+----------------------------------------------------------------------------------------------------
+-> MD5:   c27ecb1de9ca748605af567237eeed4f
+-> VT Detect:   W32.AIDetect.malware1,  Trojan.Agent.CZTF,  Ransom.Zenshirsh.SL8,  Trojan.Agent.CZTF,  Exploit.CVE.Win32.1765,  Ransom.Win32.Wannacry_0.se,  Trojan.Agent.CZTF,  Win32.Worm.Rbot.a,  Win.Ransomware.WannaCry-6313787-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Trojan.Win32.Wanna.epxkni,  generic.ml,  Trojan.Win32.WannaCry.5267459,  Trojan.Agent.CZTF,  Trojan.TR/AD.WannaCry.pvotq,  Trojan.Encoder.11432,  Ransom_WCRY.SMALYM,  BehavesLike.Win32.Generic.tz,  Generic.mg.c27ecb1de9ca7486,  Exploit.CVE-2017-0147,  Win32/Exploit.CVE-2017-0147.A,  TR/AD.WannaCry.pvotq,  Trojan.Win32.Wanna.tpxd,  Trojan-Ransom.Win32.Wanna.m,  Win32.Trojan-Ransom.WannaCry.K,  Trojan/Win32.WannaCryptor.R200894,  Ransom/W32.WannaCry.5267459,  Hoax.Wanna,  WannaCry.Ransom.Encrypt.DDS,  Ransom_WCRY.SMALYM,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Generic,  Trojan-Ransom.Win32.Wanna.m,  Trj/CI.A,  Win32/Ransom.WannaCry.HxoCXK8A
+----------------------------------------------------------------------------------------------------
+-> MD5:   aab411bfed4c9e77289a920197c3c383
+----------------------------------------------------------------------------------------------------
+-> MD5:   6e1dfefa794474d92b9e4412aea69f77
+----------------------------------------------------------------------------------------------------
+-> MD5:   c780695e67460a79b2f51ff3fe1e2b63
+----------------------------------------------------------------------------------------------------
+-> MD5:   a5588a5ed942f539643abfd99d3dc265
+----------------------------------------------------------------------------------------------------
+-> MD5:   439d743f62089e6a7b55385187a62361
+----------------------------------------------------------------------------------------------------
+-> MD5:   ce494e90f5ba942a3f1c0fe557e598bf
+-> VT Detect:   W32.DikasarDGE.Trojan,  Trojan.Agent.CZTF,  Generic.mg.ce494e90f5ba942a,  Ransom.WannaCrypt.S1670344,  Trojan.Agent.CZTF,  Exploit.CVE.Win32.1766,  Trojan.Win32.Wanna.tpxd,  Ransom.Win32.Wannacry_0.se,  Win32.Worm.Rbot.a,  Ransom.Wannacry,  Win32/Exploit.CVE-2017-0147.A,  generic.ml,  Win.Ransomware.WannaCry-6313787-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Trojan.Win32.Wanna.epxkni,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Trojan.Encoder.11432,  Ransom_WCRY.SMALYM,  BehavesLike.Win32.Generic.th,  Trojan.Wanna.k,  W32.Ransom.Wannacrypt,  TR/Ransom.bha,  Trojan/Generic.ASMalwS.2041E4F,  Trojan.Win32.S.WannaCry.5267459.N,  Win32.Trojan-Ransom.WannaCry.K,  Trojan/Win32.WannaCryptor.R200894,  Ransom/W32.WannaCry.5267459,  Hoax.Wanna,  WannaCry.Ransom.Encrypt.DDS,  Ransom_WCRY.SMALYM,  Exploit.CVE-2017-0147,  Trojan.Generic,  Trj/CI.A,  Trojan-Ransom.Win32.Wanna.m
+----------------------------------------------------------------------------------------------------
+-> MD5:   44b18f2b37f53e08acf97198500037af
+----------------------------------------------------------------------------------------------------
+-> MD5:   685e803a969b3a68ea4bb424e0fb9950
+----------------------------------------------------------------------------------------------------
+-> MD5:   2100da10a64805ee1399b2883bfbdf59
+----------------------------------------------------------------------------------------------------
+-> MD5:   4945b923efed123c9475bbb268873675
+----------------------------------------------------------------------------------------------------
+-> MD5:   b6d981531036da1c7c3f70c475540295
+----------------------------------------------------------------------------------------------------
+-> MD5:   ab02e31aa2a8ea6eecc684bfa2e3c185
+----------------------------------------------------------------------------------------------------
+-> MD5:   a0c1bed2647a7aa72963424661dda916
+----------------------------------------------------------------------------------------------------
+-> MD5:   ae12bb54af31227017feffd9598a6f5e
+-> VT Detect:   W32.FamVT.HyperiOF.Trojan,  Trojan.Agent.CZTF,  Generic.mg.ae12bb54af312270,  Ransom.WannaCrypt.S1670344,  Trojan.Ransom.WannaCryptor,  Ransom.Win32.Wannacry_0.se,  Trojan.Agent.CZTF,  Win32.Worm.Rbot.a,  Ransom.Wannacry,  Win32/Exploit.CVE-2017-0147.A,  Win.Ransomware.WannaCry-6313787-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Trojan.Win32.Wanna.epxkni,  generic.ml,  Trojan.Win32.Wanna.tpxd,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Ransom/W32.WannaCry.5267459,  Trojan.Encoder.11432,  Exploit.CVE.Win32.1766,  Ransom_WCRY.SMALYM,  BehavesLike.Win32.Generic.th,  Trojan.Wanna.k,  W32.Ransom.Wannacrypt,  TR/AD.WannaCry.zbqny,  Trojan/Generic.ASMalwS.2041E4F,  Trojan.Win32.WannaCry.5267459,  Win32.Trojan-Ransom.WannaCry.K,  Trojan/Win32.WannaCryptor.R200894,  Hoax.Wanna,  WannaCry.Ransom.Encrypt.DDS,  Ransom_WCRY.SMALYM,  Exploit.CVE-2017-0147,  Trojan.Generic,  Trj/CI.A,  Trojan-Ransom.Win32.Wanna.m
+----------------------------------------------------------------------------------------------------
+-> MD5:   6a139899acde9af3c79c024bee1a800b
+-> VT Detect:   W32.FamVT.HyperiOF.Trojan,  Trojan.Encoder.11432,  Trojan.Agent.CZTF,  Ransom.WannaCrypt.S1670344,  Exploit.CVE.Win32.1765,  Ransom.Win32.Wannacry_0.se,  Trojan.Agent.CZTF,  Ransom.Wannacry,  Win32/Exploit.CVE-2017-0147.A,  Win.Ransomware.WannaCry-6313787-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Trojan.Win32.Wanna.epxkni,  generic.ml,  Trojan.Win32.WannaCry.5267459,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Win32.Worm.Rbot.a,  Ransom_WCRY.SMALYM,  BehavesLike.Win32.Generic.th,  Generic.mg.6a139899acde9af3,  Trojan.Wanna.k,  Trojan.Generic,  TR/Ransom.Gen,  Trojan/Generic.ASMalwS.2041E4F,  Trojan.Win32.Wanna.tpxd,  Win32.Trojan-Ransom.WannaCry.K,  Trojan/Win32.WannaCryptor.R200894,  Hoax.Wanna,  Trojan.Agent.CZTF,  Ransom/W32.WannaCry.5267459,  WannaCry.Ransom.Encrypt.DDS,  Ransom_WCRY.SMALYM,  Exploit.CVE-2017-0147,  Trojan-Ransom.Win32.Wanna.m,  W32.Ransom.Wannacrypt,  Trj/CI.A
+----------------------------------------------------------------------------------------------------
+-> MD5:   e4f78978c762392406197670a9bf4695
+----------------------------------------------------------------------------------------------------
+-> MD5:   88402ef4dce14f01ec4245e211cb641e
+----------------------------------------------------------------------------------------------------
+-> MD5:   f0e4df1d50065af086a85c17103c57f1
+----------------------------------------------------------------------------------------------------
+-> MD5:   b920b57af9c09bba72bbeea4b0a9ada9
+----------------------------------------------------------------------------------------------------
+-> MD5:   efd0a1f6c70a1d26cbb5cf4d2bcc9222
+----------------------------------------------------------------------------------------------------
+-> MD5:   ea8c2186e1b0eb87951298bbd3284557
+----------------------------------------------------------------------------------------------------
+-> MD5:   996c2b2ca30180129c69352a3a3515e4
+-> VT Detect:   W32.FamVT.HyperiOF.Trojan,  Trojan.Agent.CZTF,  Generic.mg.996c2b2ca3018012,  Ransom.WannaCrypt.S1670344,  Trojan.Agent.CZTF,  Exploit.CVE.Win32.1764,  Trojan.Win32.Wanna.tpxd,  Ransom.Win32.Wannacry_0.se,  Trojan.Agent.CZTF,  Win32.Worm.Rbot.a,  Ransom.Wannacry,  Win32/Exploit.CVE-2017-0147.A,  Win.Malware.Agent-6404242-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Win32.Wanna.epxkni,  Trojan.Win32.WannaCry.5267459,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Ransom/W32.WannaCry.5267459,  Trojan.Encoder.11432,  Ransom_WCRY.SMALYM,  BehavesLike.Win32.Generic.th,  Exploit.CVE-2017-0147,  Trojan.Wanna.k,  W32.Ransom.Wannacrypt,  TR/AD.WannaCry.zbqny,  Trojan/Generic.ASMalwS.2041E4F,  Trojan.Agent.CZTF,  Win32.Trojan-Ransom.WannaCry.K,  Trojan/Win32.WannaCryptor.R200894,  Hoax.Wanna,  WannaCry.Ransom.Encrypt.DDS,  Trj/CI.A,  Ransom_WCRY.SMALYM,  Trojan.Generic,  generic.ml,  Trojan-Ransom.Win32.Wanna.m
+----------------------------------------------------------------------------------------------------
+-> MD5:   5304aea7380869ae35ea253918a416bb
+----------------------------------------------------------------------------------------------------
+-> MD5:   8aa62ed37255b651a55ede3bad34e4f8
+----------------------------------------------------------------------------------------------------
+-> MD5:   dc6dd9421ea35fc66026fb3bd855e40a
+----------------------------------------------------------------------------------------------------
+-> MD5:   65de52a852356f9e0aea8b43e67105f7
+----------------------------------------------------------------------------------------------------
+-> MD5:   a468360f0f1955c341486915e522e4c0
+----------------------------------------------------------------------------------------------------
+-> MD5:   b6cf3006714ece7195321d2feb17d385
+----------------------------------------------------------------------------------------------------
+-> MD5:   e7e3fa2e48a9c9aea8d708482b4eba37
+----------------------------------------------------------------------------------------------------
+-> MD5:   86af1b0320a998235e49ec11c1a5c162
+----------------------------------------------------------------------------------------------------
+-> MD5:   89913a42a5c9693d41f0fe1f11258754
+----------------------------------------------------------------------------------------------------
+-> MD5:   2b4d3c993bc777de8d10ac080e3e5c00
+----------------------------------------------------------------------------------------------------
+-> MD5:   201385ee6ccc060e8cdb38750197616f
+----------------------------------------------------------------------------------------------------
+-> MD5:   42c6d7afe0175671fc16c232b86bf7df
+----------------------------------------------------------------------------------------------------
+-> MD5:   6463f298a5906133c8bf1b375ad3d5be
+----------------------------------------------------------------------------------------------------
+-> MD5:   41d745d044c40f032341f11a7201948e
+----------------------------------------------------------------------------------------------------
+-> MD5:   6ac6507b0b0b519d15e3724721675d0c
+----------------------------------------------------------------------------------------------------
+-> MD5:   e02694c2e93a122d708e0cce7dfd2a4b
+----------------------------------------------------------------------------------------------------
+-> MD5:   804748534449ce9b2b081831567b806f
+----------------------------------------------------------------------------------------------------
+-> MD5:   3d20a54d68a7b3972c3cf978180cfedf
+----------------------------------------------------------------------------------------------------
+-> MD5:   280da246c280bbaed024e81638993fc3
+----------------------------------------------------------------------------------------------------
+-> MD5:   0830d2de6d3c4e1e146801acba9b5b8a
+----------------------------------------------------------------------------------------------------
+-> MD5:   e99542f1402c9c55790cd868f504930f
+----------------------------------------------------------------------------------------------------
+-> MD5:   ea55ec5c758c4947f625d740143e9390
+----------------------------------------------------------------------------------------------------
+-> MD5:   430599e85618bd750b5bbfb21cb5f857
+-> VT Detect:   W32.FamVT.HyperiOF.Trojan,  Trojan.Agent.CZTF,  Generic.mg.430599e85618bd75,  Trojan.GenericRI.S7132805,  Trojan.Wanna.Win32.98,  Ransom.Win32.Wannacry_1.se,  Win32.Worm.Rbot.a,  Ransom.Wannacry,  Win32/Exploit.CVE-2017-0147.A,  Win.Ransomware.WannaCry-6313787-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Trojan.Win32.Wanna.epxkni,  generic.ml,  Trojan.Win32.WannaCry.5267459,  Trojan.Agent.CZTF,  Ransom/W32.WannaCry.5267459.F,  Trojan.Encoder.11432,  Ransom_WCRY.SMALYM,  BehavesLike.Win32.Generic.tt,  Exploit.CVE-2017-0147,  Trojan.Wanna.k,  TR/AD.DPulsarShellcode.uvbfu,  Trojan.Generic,  Win32.Trojan-Ransom.WannaCry.K,  Trojan/Win32.WannaCryptor.R200894,  Hoax.Wanna,  Trojan.Agent.CZTF,  WannaCry.Ransom.Encrypt.DDS,  Ransom_WCRY.SMALYM,  Malware.Win32.Gencirc.10b3a623,  Trojan-Ransom.Win32.Wanna.m,  Trj/CI.A
+----------------------------------------------------------------------------------------------------
+-> MD5:   51707a312ec0701a9d63f87259ab6657
+----------------------------------------------------------------------------------------------------
+-> MD5:   a119493bce8e253eaae093e9afdda7af
+----------------------------------------------------------------------------------------------------
+-> MD5:   e48b8c7cf59e2e6d01922e4cf90875d3
+----------------------------------------------------------------------------------------------------
+-> MD5:   6567e663303386b7152d5fcab1f06cac
+-> VT Detect:   W32.FamVT.HyperiOF.Trojan,  Trojan.Agent.CZTF,  Trojan.GenericRI.S7132805,  Trojan.Wanna.Win32.98,  Trojan.Agent/Gen-WannaCrypt,  Ransom.Win32.Wannacry_0.se,  Trojan.Agent.CZTF,  Win32.Worm.Rbot.a,  Ransom.Wannacry,  Win32/Exploit.CVE-2017-0147.A,  Win.Ransomware.WannaCry-6313787-0,  Trojan-Ransom.Win32.Wanna.m,  Trojan.Agent.CZTF,  Trojan.Win32.Wanna.epxkni,  generic.ml,  Trojan.Win32.Wanna.tpxd,  Malware.Win32.Gencirc.10b3a623,  Trojan.Agent.CZTF,  Ransom/W32.WannaCry.5267459.AN,  Trojan.Encoder.11432,  Ransom_WCRY.SMALYM,  Generic.mg.6567e663303386b7,  Exploit.CVE-2017-0147,  Trojan.Wanna.k,  W32.Trojan.Gen,  TR/AD.WannaCry.nvufj,  Trojan.Generic,  Trojan.Win32.WannaCry.5267459,  Trojan-Ransom.Win32.Wanna.m,  Win32.Trojan-Ransom.WannaCry.K,  Trojan/Win32.WannaCryptor.R200894,  Hoax.Wanna,  Trojan.Agent.CZTF,  WannaCry.Ransom.Encrypt.DDS,  Ransom_WCRY.SMALYM,  Trojan-Ransom.Win32.Wanna.m,  Trj/CI.A
+----------------------------------------------------------------------------------------------------
+-> MD5:   422f32be4cd886611dae5137c81c628d
+----------------------------------------------------------------------------------------------------
+-> MD5:   7415aea4d76ea8d2706a6441be814b03
+----------------------------------------------------------------------------------------------------
+-> MD5:   f9a82980a30ed2d89c2e7d5f083ec1d3
+----------------------------------------------------------------------------------------------------
+-> MD5:   d070d331925d901996e19fda9f21a44b
+----------------------------------------------------------------------------------------------------
+-> MD5:   85905625e858e53712047ba1b37be9b9
+----------------------------------------------------------------------------------------------------
+-> MD5:   c65d031e29562d54e658703ceb6323c4
+----------------------------------------------------------------------------------------------------
+-> MD5:   0a575e8af3276a88abda813db15b6d51
+----------------------------------------------------------------------------------------------------
+-> MD5:   498cb503233c8b3fc43788d659f50b8d
+----------------------------------------------------------------------------------------------------
+-> MD5:   24ad1977f214cd1c59c4f3139cb4acf6
+----------------------------------------------------------------------------------------------------
+-> MD5:   9a2863dd65a0016bfe2a15a2cf7abd4e
+----------------------------------------------------------------------------------------------------
+-> MD5:   41668f4c0887b324b3b03ea42e0021e8
+-> VT Detect:   W32.AIDetect.malware1,  Generic.mg.41668f4c0887b324,  Backdoor.Convagent,  Downloader.Tiny.Win32.20825,  Trojan.Win32.Save.a,  malicious.c0887b,  ML.Attribute.HighConfidence,  Win.Malware.Generic-9861291-0,  Trojan.Win32.Miancha.iwt,  Trojan.Win32.Tiny.ivchqx,  generic.ml,  Malware.Win32.Gencirc.10ce4ea6,  Trojan.Siggen13.18175,  TROJ_GEN.R002C0WE421,  BehavesLike.Win32.Generic.cc,  Trojan.Miancha.jp,  Trojan.Generic,  TR/Downloader.Gen,  Trojan/Generic.ASMalwS.33196B8,  Trojan.Win32.Downloader.sa,  Win32.Trojan.Agent.WP,  Backdoor/Win.ZEGOST.R419025,  BScope.Trojan.Zbot.2791,  Malware.AI.1448282112,  TROJ_GEN.R002C0WE421,  AdWare.Win32.BlackMoon,  Trojan.Malware.73834646.susgen,  Trj/Genetic.gen
+----------------------------------------------------------------------------------------------------
+-> MD5:   1906fb2a0a7504b7681b9cd53f09b653
+----------------------------------------------------------------------------------------------------
+-> MD5:   2389ee80999ca9c83a5f92e20472143a
+-> VT Detect:   Generic.mg.2389ee80999ca9c8,  Trojan.YakbeexMSIL.ZZ4,  Trojan.ClipBanker.Win32.4976,  Trojan.Win32.Save.a,  malicious.0999ca,  ML.Attribute.HighConfidence,  Win.Packed.Ursu-9873050-0,  Trojan.Win32.StealerNET.iwmbxu,  generic.ml,  Win32.Trojan.Generic.Hqbx,  Trojan.PWS.StealerNET.51,  TROJ_GEN.R002C0DFH21,  Trojan.Generic.funzm,  TR/ATRAPS.Gen,  Ransom.Win32.Banker.sa,  Trojan/Win32.RL_Generic.C4136227,  TScope.Trojan.MSIL,  Trojan.Clipper,  TROJ_GEN.R002C0DFH21,  Trojan.MSIL.ClipBanker,  Trojan.Malware.300983.susgen,  W32.Trojan.Gen,  Trj/CI.A
+----------------------------------------------------------------------------------------------------
+-> MD5:   8c5122b3da5fa04d391b6bee5655c149
+----------------------------------------------------------------------------------------------------
+-> MD5:   708c8a452d02d46ed6a1c16486a7a206
+----------------------------------------------------------------------------------------------------
+-> MD5:   7e06ff8e96654584763cb9f4b857bdfb
+----------------------------------------------------------------------------------------------------
+-> MD5:   4fe86702401536ed53afe160d6bd082d
+----------------------------------------------------------------------------------------------------
+-> MD5:   9d7aa3d9958293b549ef4f4db2cc2953
+----------------------------------------------------------------------------------------------------
+-> MD5:   88075dfa232db6eabba969ee67bb83cb
+----------------------------------------------------------------------------------------------------
+-> MD5:   aa7d98d151002e997fdbf6f2dbe7b8ba
+----------------------------------------------------------------------------------------------------
+-> MD5:   e8dadbed82f4fe52e93c907b955845ea
+----------------------------------------------------------------------------------------------------
+-> MD5:   b723f37c510a2466b51a44a09ce1de91
+----------------------------------------------------------------------------------------------------
+-> MD5:   ed979ce49b3373765a91b15c1c37c00b
+----------------------------------------------------------------------------------------------------
+-> MD5:   b4da263de4580d3f2dd80ea9315010f6
+----------------------------------------------------------------------------------------------------
+-> MD5:   13655f5cd9b5a3cd054c2876054df16f
+----------------------------------------------------------------------------------------------------
+-> MD5:   42ede73e943b1d6d81dccafe4ad87f32
+----------------------------------------------------------------------------------------------------
+-> MD5:   41c69a7f93fbe7edc44fd1b09795fa67
+----------------------------------------------------------------------------------------------------
+-> MD5:   44bc540ed22c83517ff5068ba58da383
+----------------------------------------------------------------------------------------------------
+-> MD5:   7398613212831fdb5aafe47931d718e5
